@@ -1,0 +1,674 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-08 14:34+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: bold-timeline-lite-notice.php:52
+msgid "Buy full version"
+msgstr ""
+
+#: bold-timeline-lite-notice.php:53
+msgid "Snooze for 7 days"
+msgstr ""
+
+#: bold-timeline-lite-notice.php:55
+msgid ""
+"Thanks for using Bold Timeline Lite by Bold Themes. It's fast to set up, "
+"hassle-free and super easy to use WordPress plugin. For many more additional "
+"and advanced features check out Bold Timeline full version."
+msgstr ""
+
+#: bold-timeline-lite.php:53
+msgid "Bold Timeline"
+msgstr ""
+
+#: bold-timeline-lite.php:54
+msgid "Bold Timelines"
+msgstr ""
+
+#: assets/views/bold_timeline_group_view.php:86
+msgid "Expand"
+msgstr ""
+
+#: assets/views/bold_timeline_item_posts_view.php:115
+msgid "No Posts Found"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:128
+msgid "Toggle"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:129
+msgid "Add"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:130
+#: bold-builder-light/class-btbb-light-list-table.php:165
+msgid "Edit"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:131
+msgid "Edit Content"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:132
+msgid "Clone"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:133
+#: bold-builder-light/class-btbb-light-list-table.php:130
+#: bold-builder-light/class-btbb-light-list-table.php:176
+msgid "Delete"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:134
+msgid "Layout error!"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:135
+msgid "Add Element"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:136
+msgid "Select Layout"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:137
+msgid "Select"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:138
+#: bold-builder-light/bold-builder-light.php:242
+#: bold-builder-light/bold-builder-light.php:841
+msgid "Submit"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:139
+msgid "Copy"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:140
+msgid "Copy +"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:141
+#: bold-builder-light/bold-builder-light.php:250
+msgid "Paste"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:142
+msgid "Export"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:143
+msgid "Import"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:144
+msgid "Not allowed!"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:145
+msgid "Manage Clipboard"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:146
+msgid "Filter..."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:147
+msgid "Shortcode Mapper"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:148
+msgid "Insert Mapping"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:149
+#: bold-builder-light/bold-builder-light.php:254
+#: bold-builder-light/bold-builder-light.php:566
+msgid "Save"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:150
+msgid "Switch Editor"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:151
+msgid "Custom CSS"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:152
+msgid "Are you sure you want to switch editor?"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:153
+msgid "General"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:247
+msgid "Undo"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:248
+msgid "Redo"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:252
+msgid "Clipboard Manager"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:322
+#: bold-builder-light/bold-builder-light.php:518
+msgid "Edit "
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:331
+#: bold-builder-light/bold-builder-light.php:332
+#: bold-builder-light/bold-builder-light.php:581
+#: bold-builder-light/bold-builder-light.php:781
+msgid "Product License"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:338
+#: bold-builder-light/bold-builder-light.php:516
+msgid "Add New "
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:339
+#: bold-builder-light/bold-builder-light.php:467
+msgid "Add New"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:355
+#: bold-builder-light/bold-builder-light.php:665
+msgid "Nonce error."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:359
+#: bold-builder-light/bold-builder-light.php:494
+msgid "You are not allowed to edit posts."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:363
+msgid "Untitled"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:417
+msgid "You are not allowed to delete posts."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:450
+msgid "You are not allowed edit posts."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:472
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:482
+msgid "Search"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:536
+msgid "Enter title here"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:545
+msgid ""
+"Copy this shortcode and paste it into your post, page, or text widget "
+"content:"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:558
+msgid "Status"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:575
+msgid "Info"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:578
+msgid "Home page"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:584
+msgid "Documentation"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:587
+msgid "Support"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:651
+msgid "You are not allowed to do this."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:683
+msgid "Error 01. Please try again later."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:691
+msgid "Error 02. Please try again later."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:700
+msgid "License has been deactivated."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:720
+msgid "Error 03. Please try again later."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:728
+msgid "Error 04. Please try again later."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:731
+msgid "Error. Please check that you have entered the correct data."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:735
+msgid "Error. Please check Purchase Code."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:737
+msgid "Error 05. Please try again later."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:741
+msgid "Error. Purchase code already activated on domain "
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:741
+#: bold-builder-light/bold-builder-light.php:805
+msgid "."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:745
+msgid "License has been activated."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:803
+#, php-format
+msgid ""
+"In order to receive all benefits, you need to activate your copy of the "
+"plugin. By activating license you will unlock premium options - %sdirect "
+"plugin updates%s and %sassistance of our support team%s."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:805
+msgid ""
+"If you do not have a license or you have activated a license on another "
+"site, then you can "
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:805
+msgid "purchase a license here"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:810
+msgid "Purchase Code"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:813
+msgid "Enter your purchase code here."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:817
+msgid "Email Address (optional)"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:820
+msgid "Enter to get important info and special offers."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:839
+msgid "Deactivate"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:863
+msgid "Post created."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:865
+msgid "Post saved."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:867
+msgid "Post deleted."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:869
+msgid "Posts deleted."
+msgstr ""
+
+#: bold-builder-light/class-btbb-light-list-table.php:19
+#: content_elements/bold_timeline_group/bold_timeline_group.php:61
+#: content_elements/bold_timeline_item/bold_timeline_item.php:110
+msgid "Title"
+msgstr ""
+
+#: bold-builder-light/class-btbb-light-list-table.php:20
+msgid "Shortcode"
+msgstr ""
+
+#: bold-builder-light/class-btbb-light-list-table.php:21
+msgid "Author"
+msgstr ""
+
+#: bold-builder-light/class-btbb-light-list-table.php:22
+msgid "Date"
+msgstr ""
+
+#: bold-builder-light/class-btbb-light-list-table.php:155
+#, php-format
+msgid "Edit &#8220;%s&#8221;"
+msgstr ""
+
+#: bold-builder-light/class-btbb-light-list-table.php:174
+msgid ""
+"You are about to delete this post.\n"
+"'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: bold-builder-light/class-btbb-light-list-table.php:224
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+#: bold-builder-light/class-btbb-light-list-table.php:234
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: bold-builder-light/class-btbb-light-list-table.php:236
+msgid "Y/m/d"
+msgstr ""
+
+#: bold-builder-light/plugin-update-checker/Puc/v4p8/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: bold-builder-light/plugin-update-checker/Puc/v4p8/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: bold-builder-light/plugin-update-checker/Puc/v4p8/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: bold-builder-light/plugin-update-checker/Puc/v4p8/Plugin/Ui.php:213
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: bold-builder-light/plugin-update-checker/Puc/v4p8/Plugin/Ui.php:215
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: bold-builder-light/plugin-update-checker/Puc/v4p8/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: bold-builder-light/plugin-update-checker/Puc/v4p8/Plugin/Ui.php:223
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: bold-builder-light/plugin-update-checker/Puc/v4p8/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:53
+msgid "Timeline Style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:55
+msgid "Classic Style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:56
+msgid "Retro Style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:57
+msgid "Clean Style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:58
+msgid "Travel Style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:59
+msgid "CV Style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:62
+msgid "Line color"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:63
+msgid "Frame color"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:63
+#: content_elements/bold_timeline_container/bold_timeline_container.php:64
+#: content_elements/bold_timeline_container/bold_timeline_container.php:65
+#: content_elements/bold_timeline_container/bold_timeline_container.php:66
+#: content_elements/bold_timeline_container/bold_timeline_container.php:67
+#: content_elements/bold_timeline_container/bold_timeline_container.php:68
+#: content_elements/bold_timeline_container/bold_timeline_container.php:69
+#: content_elements/bold_timeline_container/bold_timeline_container.php:72
+msgid "Items"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:64
+msgid "Background color"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:65
+msgid "Connector color"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:66
+msgid "Marker color"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:67
+msgid "Icon color"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:68
+msgid "Sticker color"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:69
+#: content_elements/bold_timeline_container/bold_timeline_container.php:76
+msgid "Title font"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:70
+#: content_elements/bold_timeline_container/bold_timeline_container.php:73
+#: content_elements/bold_timeline_container/bold_timeline_container.php:77
+msgid "Inherit"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:72
+msgid "Body font"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:75
+msgid "Group frame color"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:75
+#: content_elements/bold_timeline_container/bold_timeline_container.php:76
+msgid "Groups"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:79
+#: content_elements/bold_timeline_group/bold_timeline_group.php:62
+#: content_elements/bold_timeline_item/bold_timeline_item.php:114
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:31
+msgid "Custom Id Attribute"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:79
+#: content_elements/bold_timeline_container/bold_timeline_container.php:80
+#: content_elements/bold_timeline_container/bold_timeline_container.php:81
+#: content_elements/bold_timeline_container/bold_timeline_container.php:82
+#: content_elements/bold_timeline_group/bold_timeline_group.php:62
+#: content_elements/bold_timeline_group/bold_timeline_group.php:63
+#: content_elements/bold_timeline_group/bold_timeline_group.php:64
+#: content_elements/bold_timeline_item/bold_timeline_item.php:114
+#: content_elements/bold_timeline_item/bold_timeline_item.php:115
+#: content_elements/bold_timeline_item/bold_timeline_item.php:116
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:31
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:32
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:33
+msgid "Custom"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:80
+#: content_elements/bold_timeline_group/bold_timeline_group.php:63
+#: content_elements/bold_timeline_item/bold_timeline_item.php:115
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:32
+msgid "Extra Class Name(s)"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:81
+msgid "Extra CSS"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:81
+msgid "Use #this to select this element (e.g. #this { color: white; })"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:82
+#: content_elements/bold_timeline_group/bold_timeline_group.php:64
+#: content_elements/bold_timeline_item/bold_timeline_item.php:116
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:33
+msgid "Inline Style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:83
+#: content_elements/bold_timeline_group/bold_timeline_group.php:65
+#: content_elements/bold_timeline_item/bold_timeline_item.php:117
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:34
+msgid "Hide element on screens"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:83
+#: content_elements/bold_timeline_group/bold_timeline_group.php:65
+#: content_elements/bold_timeline_item/bold_timeline_item.php:117
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:34
+msgid "Responsive"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:85
+#: content_elements/bold_timeline_group/bold_timeline_group.php:67
+#: content_elements/bold_timeline_item/bold_timeline_item.php:119
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:36
+msgid "≤480px"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:86
+#: content_elements/bold_timeline_group/bold_timeline_group.php:68
+#: content_elements/bold_timeline_item/bold_timeline_item.php:120
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:37
+msgid "480-767px"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:87
+#: content_elements/bold_timeline_group/bold_timeline_group.php:69
+#: content_elements/bold_timeline_item/bold_timeline_item.php:121
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:38
+msgid "768-991px"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:88
+#: content_elements/bold_timeline_group/bold_timeline_group.php:70
+#: content_elements/bold_timeline_item/bold_timeline_item.php:122
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:39
+msgid "992-1200px"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:89
+#: content_elements/bold_timeline_group/bold_timeline_group.php:71
+#: content_elements/bold_timeline_item/bold_timeline_item.php:123
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:40
+msgid "≥1200px"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:93
+msgid "Timeline"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:93
+msgid "Timeline container"
+msgstr ""
+
+#: content_elements/bold_timeline_group/bold_timeline_group.php:75
+msgid "Timeline Group"
+msgstr ""
+
+#: content_elements/bold_timeline_group/bold_timeline_group.php:75
+msgid "Timeline group"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:109
+msgid "Supertitle"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:111
+msgid "Subtitle"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:112
+msgid "Icon"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:113
+msgid "Images"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:113
+msgid "Media"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:127
+msgid "Timeline Item"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:127
+msgid "Timeline item"
+msgstr ""
+
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:29
+msgid "Text"
+msgstr ""
+
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:29
+msgid "Text element"
+msgstr ""

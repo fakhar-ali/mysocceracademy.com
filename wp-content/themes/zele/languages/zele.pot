@@ -1,0 +1,4108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-20 16:42+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:14
+msgid "We are sorry, page not found."
+msgstr ""
+
+#: 404.php:15
+msgid "Error 404."
+msgstr ""
+
+#: 404.php:27 index.php:115
+msgid "BACK TO HOME"
+msgstr ""
+
+#: archive-portfolio.php:82 index.php:99
+msgid "We are sorry, no results for: "
+msgstr ""
+
+#: archive-portfolio.php:83
+msgid "Back to homepage"
+msgstr ""
+
+#: comments.php:14
+#, php-format
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:21 comments.php:24 comments.php:28
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:22 comments.php:26 comments.php:29
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:59
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:125
+#: woocommerce/single-product-reviews.php:81
+msgid "Name"
+msgstr ""
+
+#: comments.php:64 woocommerce/single-product-reviews.php:83
+msgid "Email"
+msgstr ""
+
+#: comments.php:69
+msgid "Website"
+msgstr ""
+
+#: comments.php:76
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:77 woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:78
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:79 comments.php:81
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:83
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: comments.php:89
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:95
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"%4$s\">"
+"%5$s</a>"
+msgstr ""
+
+#: comments.php:99
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:100
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:104
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:104
+msgid "Required fields are marked *"
+msgstr ""
+
+#: functions.php:29
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:30
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:198
+msgid "Zele"
+msgstr ""
+
+#: functions.php:208
+msgid "Cost Calculator"
+msgstr ""
+
+#: functions.php:218
+msgid "Bold Timeline Lite"
+msgstr ""
+
+#: functions.php:225
+msgid "Bold Builder"
+msgstr ""
+
+#: functions.php:232
+msgid "BoldThemes WordPress Importer"
+msgstr ""
+
+#: functions.php:242
+msgid "Meta Box"
+msgstr ""
+
+#: functions.php:249
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:256
+msgid "Lightweight Sidebar Manager"
+msgstr ""
+
+#: functions.php:273 framework/class-tgm-plugin-activation.php:332
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:274 framework/class-tgm-plugin-activation.php:333
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:275 framework/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:276 framework/class-tgm-plugin-activation.php:338
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:277 framework/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:278 framework/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:279
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:280 framework/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:281 framework/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:282
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:283 framework/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:284
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:285 framework/class-tgm-plugin-activation.php:376
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:286 framework/class-tgm-plugin-activation.php:386
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:287 framework/class-tgm-plugin-activation.php:390
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:288 framework/class-tgm-plugin-activation.php:392
+#: framework/class-tgm-plugin-activation.php:3231
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:289
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:323 functions.php:338 functions.php:353 functions.php:368
+#: functions.php:383 functions.php:398
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:512
+msgid "Shop Sidebar"
+msgstr ""
+
+#: index.php:107
+msgid "Enter search term"
+msgstr ""
+
+#: index.php:108 framework/boldthemes_functions.php:1756
+msgid "Search"
+msgstr ""
+
+#: page.php:13 views/portfolio/single/columns.php:58
+#: views/portfolio/single/standard.php:51 views/post/single/columns.php:53
+#: views/post/single/standard.php:38
+msgid "Pages:"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:204
+msgid "Card Image"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:204
+msgid "Card with image, icon and text"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:206
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:115
+#: bold-page-builder/content_elements/bt_bb_inner_step/bt_bb_inner_step.php:78
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:131
+msgid "Icon"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:207
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:106
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:93
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:247
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:120
+msgid "Image"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:209
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:108
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:111
+msgid "Lazy load this image"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:211
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:224
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:283
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:110
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:113
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:184
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:346
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:234
+#: bold-page-builder/content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:92
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:321
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:337
+#: php/after_framework/functions.php:434 php/after_framework/functions.php:440
+#: php/after_framework/functions.php:447
+msgid "No"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:212
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:225
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:284
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:111
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:114
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:170
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:172
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:174
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:176
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:178
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:180
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:185
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:323
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:347
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:350
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:352
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:354
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:356
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:358
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:360
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:362
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:235
+#: bold-page-builder/content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:93
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:322
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:338
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:372
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:175
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:176
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:177
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:178
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:179
+#: php/after_framework/functions.php:435
+msgid "Yes"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:215
+msgid "Image size"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:218
+msgid "Enter height in em or px, e.g. 10em"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:218
+msgid "Min height (define when no image)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:220
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:122
+#: bold-page-builder/content_elements/bt_bb_inner_step/bt_bb_inner_step.php:79
+#: bold-page-builder/content_elements/bt_bb_link/bt_bb_link.php:69
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:222
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:129
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:133
+msgid "Title"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:221
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:117
+#: bold-page-builder/content_elements/bt_bb_inner_step/bt_bb_inner_step.php:89
+#: bold-page-builder/content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:82
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:134
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:119
+msgid "Text"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:222
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:232
+msgid "Show arrow"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:230
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:231
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:236
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:170
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:171
+#: bold-page-builder/content_elements/bt_bb_link/bt_bb_link.php:73
+#: bold-page-builder/content_elements/bt_bb_link/bt_bb_link.php:74
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:239
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:240
+#: bold-page-builder/content_elements/bt_bb_promo/bt_bb_promo.php:80
+#: bold-page-builder/content_elements/bt_bb_promo/bt_bb_promo.php:81
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:151
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:152
+#: php/after_framework/functions.php:625 php/after_framework/functions.php:626
+#: php/after_framework/functions.php:710 php/after_framework/functions.php:711
+#: php/after_framework/functions.php:712
+msgid "URL"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:230
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:170
+#: bold-page-builder/content_elements/bt_bb_link/bt_bb_link.php:73
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:239
+#: bold-page-builder/content_elements/bt_bb_promo/bt_bb_promo.php:80
+msgid ""
+"Enter full or local URL (e.g. https://www.bold-themes.com or /pages/about-"
+"us), post slug (e.g. about-us), #lightbox to open current image in full size "
+"or search for existing content."
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:231
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:171
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:164
+#: bold-page-builder/content_elements/bt_bb_link/bt_bb_link.php:74
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:240
+#: bold-page-builder/content_elements/bt_bb_promo/bt_bb_promo.php:81
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:152
+#: php/after_framework/functions.php:626 php/after_framework/functions.php:712
+msgid "Target"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:233
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:173
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:166
+#: bold-page-builder/content_elements/bt_bb_link/bt_bb_link.php:76
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:242
+#: bold-page-builder/content_elements/bt_bb_promo/bt_bb_promo.php:83
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:154
+#: php/after_framework/functions.php:628 php/after_framework/functions.php:714
+msgid "Self (open in same tab)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:234
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:174
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:167
+#: bold-page-builder/content_elements/bt_bb_link/bt_bb_link.php:77
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:243
+#: bold-page-builder/content_elements/bt_bb_promo/bt_bb_promo.php:84
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:155
+#: php/after_framework/functions.php:629 php/after_framework/functions.php:715
+msgid "Blank (open in new tab)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:236
+msgid "URL Hover text"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:236
+msgid "Text (title) visible on hover"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:241
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:247
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:257
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:263
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:272
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:281
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:288
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:297
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:307
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:308
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:319
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:327
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:328
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:329
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:330
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:127
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:136
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:145
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:155
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:163
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:247
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:248
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:264
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:280
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:290
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:291
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:292
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:293
+#: bold-page-builder/content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:89
+#: bold-page-builder/content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:90
+#: bold-page-builder/content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:96
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:143
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:149
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:157
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:162
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:164
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:173
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:181
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:182
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:332
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:333
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:334
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:341
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:353
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:354
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:356
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:365
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:366
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:161
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:170
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:171
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:172
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:182
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:129
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:138
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:146
+#: php/after_framework/functions.php:193 php/after_framework/functions.php:196
+#: php/after_framework/functions.php:198 php/after_framework/functions.php:200
+#: php/after_framework/functions.php:202 php/after_framework/functions.php:264
+#: php/after_framework/functions.php:417 php/after_framework/functions.php:432
+#: php/after_framework/functions.php:438 php/after_framework/functions.php:445
+#: php/after_framework/functions.php:451 php/after_framework/functions.php:590
+#: php/after_framework/functions.php:597 php/after_framework/functions.php:610
+#: php/after_framework/functions.php:624 php/after_framework/functions.php:680
+#: php/after_framework/functions.php:690 php/after_framework/functions.php:698
+#: php/after_framework/functions.php:708
+msgid "Design"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:241
+msgid "Image position"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:243
+msgid "Image as background"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:244
+msgid "Image on top"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:247
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:145
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:372
+msgid "Image hover style"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:249
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:147
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:374
+#: framework/customization.php:978
+msgid "Simple"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:250
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:148
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:375
+msgid "Zoom in"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:251
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:149
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:376
+msgid "To grayscale"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:252
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:150
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:377
+msgid "From grayscale"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:253
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:151
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:378
+msgid "Zoom in to grayscale"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:254
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:152
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:379
+msgid "Zoom in from grayscale"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:257
+msgid "Show content"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:257
+msgid "Add selected elements and show them over the card image"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:259
+msgid "Always visible"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:260
+msgid "Show on hover"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:263
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:127
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:224
+#: php/after_framework/functions.php:743
+msgid "Title size"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:265
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:290
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:129
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:260
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:291
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:163
+#: php/after_framework/functions.php:42 php/after_framework/functions.php:111
+#: php/after_framework/functions.php:291 php/after_framework/functions.php:317
+#: php/after_framework/functions.php:454 php/after_framework/functions.php:701
+msgid "Extra small"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:266
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:291
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:122
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:128
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:130
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:159
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:338
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:226
+#: bold-page-builder/content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:85
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:261
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:292
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:164
+#: framework/customization.php:948 framework/customization.php:1198
+#: php/after_framework/functions.php:43 php/after_framework/functions.php:112
+#: php/after_framework/functions.php:292 php/after_framework/functions.php:318
+#: php/after_framework/functions.php:379 php/after_framework/functions.php:455
+#: php/after_framework/functions.php:592 php/after_framework/functions.php:702
+#: php/after_framework/functions.php:745
+msgid "Small"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:267
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:131
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:189
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:263
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:294
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:153
+#: php/after_framework/customize_params.php:249
+#: php/after_framework/customize_params.php:287
+#: php/after_framework/customize_params.php:355
+#: php/after_framework/customize_params.php:454
+#: php/after_framework/customize_params.php:517
+#: php/after_framework/customize_params.php:555
+#: php/after_framework/functions.php:45 php/after_framework/functions.php:114
+#: php/after_framework/functions.php:294 php/after_framework/functions.php:320
+#: php/after_framework/functions.php:380 php/after_framework/functions.php:396
+#: php/after_framework/functions.php:410 php/after_framework/functions.php:425
+#: php/after_framework/functions.php:457 php/after_framework/functions.php:528
+#: php/after_framework/functions.php:617
+msgid "Medium"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:268
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:292
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:123
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:129
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:132
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:157
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:339
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:227
+#: bold-page-builder/content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:86
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:188
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:262
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:293
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:165
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:152
+#: framework/customization.php:949 framework/customization.php:1199
+#: php/after_framework/customize_params.php:248
+#: php/after_framework/customize_params.php:286
+#: php/after_framework/customize_params.php:354
+#: php/after_framework/customize_params.php:453
+#: php/after_framework/customize_params.php:516
+#: php/after_framework/customize_params.php:554
+#: php/after_framework/functions.php:44 php/after_framework/functions.php:113
+#: php/after_framework/functions.php:167 php/after_framework/functions.php:238
+#: php/after_framework/functions.php:293 php/after_framework/functions.php:319
+#: php/after_framework/functions.php:381 php/after_framework/functions.php:395
+#: php/after_framework/functions.php:409 php/after_framework/functions.php:424
+#: php/after_framework/functions.php:456 php/after_framework/functions.php:527
+#: php/after_framework/functions.php:593 php/after_framework/functions.php:616
+#: php/after_framework/functions.php:703 php/after_framework/functions.php:746
+msgid "Normal"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:269
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:293
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:124
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:130
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:133
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:160
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:340
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:228
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:264
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:295
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:166
+#: framework/customization.php:950 framework/customization.php:1200
+#: php/after_framework/functions.php:46 php/after_framework/functions.php:115
+#: php/after_framework/functions.php:295 php/after_framework/functions.php:321
+#: php/after_framework/functions.php:382 php/after_framework/functions.php:458
+#: php/after_framework/functions.php:594 php/after_framework/functions.php:704
+#: php/after_framework/functions.php:747
+msgid "Large"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:272
+#: bold-page-builder/content_elements/bt_bb_inner_step/bt_bb_inner_step.php:80
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:293
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:164
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:181
+msgid "HTML title tag"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:274
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:138
+#: bold-page-builder/content_elements/bt_bb_inner_step/bt_bb_inner_step.php:82
+#: bold-page-builder/content_elements/bt_bb_link/bt_bb_link.php:84
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:295
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:166
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:183
+msgid "h1"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:275
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:139
+#: bold-page-builder/content_elements/bt_bb_inner_step/bt_bb_inner_step.php:83
+#: bold-page-builder/content_elements/bt_bb_link/bt_bb_link.php:85
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:296
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:167
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:184
+msgid "h2"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:276
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:140
+#: bold-page-builder/content_elements/bt_bb_inner_step/bt_bb_inner_step.php:84
+#: bold-page-builder/content_elements/bt_bb_link/bt_bb_link.php:86
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:297
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:168
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:185
+msgid "h3"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:277
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:141
+#: bold-page-builder/content_elements/bt_bb_inner_step/bt_bb_inner_step.php:85
+#: bold-page-builder/content_elements/bt_bb_link/bt_bb_link.php:87
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:298
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:169
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:186
+msgid "h4"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:278
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:142
+#: bold-page-builder/content_elements/bt_bb_inner_step/bt_bb_inner_step.php:86
+#: bold-page-builder/content_elements/bt_bb_link/bt_bb_link.php:88
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:299
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:170
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:187
+msgid "h5"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:279
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:143
+#: bold-page-builder/content_elements/bt_bb_inner_step/bt_bb_inner_step.php:87
+#: bold-page-builder/content_elements/bt_bb_link/bt_bb_link.php:89
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:300
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:171
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:188
+msgid "h6"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:281
+msgid "Stroke title"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:288
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:161
+msgid "Icon size"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:294
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:265
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:296
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:167
+#: php/after_framework/functions.php:47 php/after_framework/functions.php:116
+#: php/after_framework/functions.php:296 php/after_framework/functions.php:322
+#: php/after_framework/functions.php:459 php/after_framework/functions.php:705
+msgid "Extra large"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:297
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:132
+#: bold-page-builder/content_elements/bt_bb_inner_step/bt_bb_inner_step.php:90
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:172
+msgid "Icon style"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:299
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:134
+#: bold-page-builder/content_elements/bt_bb_inner_step/bt_bb_inner_step.php:92
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:174
+#: php/after_framework/functions.php:599 php/after_framework/functions.php:682
+msgid "Outline"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:300
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:135
+#: bold-page-builder/content_elements/bt_bb_inner_step/bt_bb_inner_step.php:93
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:175
+#: php/after_framework/functions.php:600 php/after_framework/functions.php:683
+#: php/after_framework/functions.php:883
+msgid "Filled"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:301
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:136
+#: bold-page-builder/content_elements/bt_bb_inner_step/bt_bb_inner_step.php:94
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:176
+#: php/after_framework/functions.php:684
+msgid "Borderless"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:302
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:137
+#: bold-page-builder/content_elements/bt_bb_inner_step/bt_bb_inner_step.php:95
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:177
+#: php/after_framework/functions.php:685
+msgid "Rugged"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:303
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:138
+#: bold-page-builder/content_elements/bt_bb_inner_step/bt_bb_inner_step.php:96
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:178
+#: php/after_framework/functions.php:686
+msgid "Zig zag"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:304
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:139
+#: bold-page-builder/content_elements/bt_bb_inner_step/bt_bb_inner_step.php:97
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:179
+#: php/after_framework/functions.php:687
+msgid "Liquid"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:307
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:142
+#: php/after_framework/functions.php:624
+msgid "Icon color scheme"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:308
+msgid "Card border"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:310
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:175
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:203
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:111
+msgid "None"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:311
+msgid "Light border"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:312
+msgid "Very light border"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:313
+msgid "Dark border"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:314
+msgid "Accent border"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:315
+msgid "Alternate border"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:316
+msgid "Gray border"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:319
+msgid "Card shape"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:321
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:157
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:151
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:137
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:184
+#: php/after_framework/functions.php:342 php/after_framework/functions.php:377
+#: php/after_framework/functions.php:548 php/after_framework/functions.php:692
+msgid "Inherit"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:322
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:158
+#: bold-page-builder/content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:98
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:152
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:186
+#: framework/customization.php:889 php/after_framework/functions.php:694
+#: php/after_framework/functions.php:770
+#: php/before_framework/customize_params.php:134
+msgid "Square"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:323
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:159
+#: bold-page-builder/content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:99
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:153
+msgid "Rounded"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:324
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:160
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:154
+msgid "Round"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:327
+msgid "Card color scheme"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:328
+msgid "Custom background card color"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:329
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:292
+msgid "Arrow color scheme"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_card_image/bt_bb_card_image.php:330
+#: php/after_framework/functions.php:767
+msgid "Content color scheme"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:112
+msgid "Counter"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:112
+msgid "Animated counter"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:116
+msgid "Number"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:120
+#: bold-page-builder/content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:83
+#: php/after_framework/functions.php:375 php/after_framework/functions.php:590
+#: php/after_framework/functions.php:698
+msgid "Size"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_counter/bt_bb_counter.php:126
+msgid "Text size"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:104
+msgid "Event"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:104
+msgid "Event with description and image"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:114
+msgid "Image Size"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:118
+msgid "Month"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:119
+msgid "Day"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:121
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:126
+msgid "Details"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:136
+#: bold-page-builder/content_elements/bt_bb_link/bt_bb_link.php:82
+msgid "HTML tag"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:155
+msgid "Event shape"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:163
+msgid "Date colors"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:165
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:133
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:142
+#: php/after_framework/functions.php:344 php/after_framework/functions.php:914
+msgid "Light color"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_event/bt_bb_event.php:166
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:134
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:143
+#: php/after_framework/functions.php:343
+msgid "Dark color"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:91
+msgid "Floating image"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:91
+msgid "Absolute positioned floating image"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:95
+msgid "Vertical position"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:97
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:105
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:138
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:154
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:184
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:148
+#: framework/customization.php:315
+#: php/after_framework/customize_params.php:244
+#: php/after_framework/customize_params.php:282
+#: php/after_framework/customize_params.php:320
+#: php/after_framework/customize_params.php:350
+#: php/after_framework/customize_params.php:388
+#: php/after_framework/customize_params.php:449
+#: php/after_framework/customize_params.php:512
+#: php/after_framework/customize_params.php:550
+#: php/after_framework/functions.php:391 php/after_framework/functions.php:405
+#: php/after_framework/functions.php:420 php/after_framework/functions.php:523
+#: php/after_framework/functions.php:537 php/after_framework/functions.php:612
+msgid "Default"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:98
+msgid "Top (absolute)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:99
+msgid "Middle (absolute)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:100
+msgid "Bottom (absolute)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:103
+msgid "Horizontal position"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:106
+msgid "Left (absolute)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:107
+msgid "Center (absolute)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:108
+msgid "Right (absolute)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:117
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:125
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:136
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:152
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:180
+msgid "Animation"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:117
+msgid "Animation direction"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:119
+msgid "Top & bottom"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:120
+msgid "Left & right"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:121
+msgid "Rotate"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:125
+msgid "Animation style (check https://easings.net/en)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:127
+msgid "Ease out (default)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:128
+msgid "Ease out sine"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:129
+msgid "Ease in"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:130
+msgid "Ease in sine"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:131
+msgid "Ease in out"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:132
+msgid "Ease in out sine"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:133
+msgid "Ease in out bounce"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:136
+msgid "Animation delay"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:139
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:155
+msgid "0ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:140
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:156
+msgid "100ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:141
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:157
+msgid "200ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:142
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:158
+msgid "300ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:143
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:159
+msgid "400ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:144
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:160
+msgid "500ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:145
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:161
+msgid "600ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:146
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:162
+msgid "700ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:147
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:163
+msgid "800ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:148
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:164
+msgid "900ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:149
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:165
+msgid "1000ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:152
+msgid "Animation duration"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:166
+msgid "1100ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:167
+msgid "1200ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:168
+msgid "1300ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:169
+msgid "1400ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:170
+msgid "1500ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:171
+msgid "2000ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:172
+msgid "2500ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:173
+msgid "3000ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:174
+msgid "3500ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:175
+msgid "4000ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:176
+msgid "5000ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:177
+msgid "6000ms"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:180
+msgid "Animation s"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:182
+msgid "0.4 (very short)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:183
+msgid "0.6"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:184
+msgid "0.8"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:185
+msgid "1.0"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:186
+msgid "1.2 (default)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:187
+msgid "1.4"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:188
+msgid "1.6 (long)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:189
+msgid "1.8"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:190
+msgid "2.0 (very long)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_floating_image/bt_bb_floating_image.php:191
+msgid "2.5 (very very long)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_inner_step/bt_bb_inner_step.php:76
+msgid "Inner step"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_inner_step/bt_bb_inner_step.php:76
+msgid "Inner step element"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:97
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:57
+#: framework/boldthemes_functions.php:1526
+msgid "by"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:143
+msgid "Latest Posts"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:143
+msgid "List of latest posts"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:145
+msgid "Rows"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:146
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:325
+#: framework/customization.php:977 framework/customization.php:1005
+#: framework/customization.php:1227 framework/customization.php:1254
+msgid "Columns"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:148
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:327
+msgid "1"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:149
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:328
+#: framework/customization.php:917 framework/customization.php:1167
+msgid "2"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:150
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:329
+#: framework/customization.php:918 framework/customization.php:1168
+msgid "3"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:151
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:330
+#: framework/customization.php:919 framework/customization.php:1169
+msgid "4"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:152
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:332
+#: framework/customization.php:921 framework/customization.php:1171
+msgid "6"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:155
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:335
+msgid "Gap"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:158
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:337
+#: framework/customization.php:947 framework/customization.php:1197
+msgid "No gap"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:163
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:343
+#: framework/boldthemes_functions.php:1719
+#: framework/boldthemes_functions.php:1725
+msgid "Category"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:163
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:343
+msgid "Enter category slug or leave empty to show all"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:170
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:350
+msgid "Show category"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:172
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:352
+msgid "Show date"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:174
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:354
+msgid "Show author"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:176
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:356
+msgid "Show number of comments"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:178
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:358
+msgid "Show excerpt"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:180
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:360
+msgid "Show read more"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:182
+msgid "Lazy load images"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_link/bt_bb_link.php:67
+#: framework/config-meta-boxes.php:95
+msgid "Link"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_link/bt_bb_link.php:67
+msgid "Text with link"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_link/bt_bb_link.php:91
+#: bold-page-builder/content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:89
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:157
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:332
+msgid "Color scheme"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:282
+msgid "All"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:313
+msgid "Post Type"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:315
+msgid "Post"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:316
+#: framework/boldthemes_functions.php:1704
+#: framework/boldthemes_functions.php:1706 framework/customization.php:167
+msgid "Portfolio"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:322
+msgid "Number of items"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:322
+msgid "Enter number of items or leave empty to show all (up to 1000)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:323
+msgid "Load more items on scroll"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:331
+#: framework/customization.php:920 framework/customization.php:1170
+msgid "5"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:344
+msgid "Category filter"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:362
+msgid "Show share icons"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:364
+msgid "Supertitle style"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:364
+msgid ""
+"Choose color scheme for supertitle - blog details (category, author etc.)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:366
+msgid "Light font, accent background (or details)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:367
+msgid "Dark font, accent background (or details)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:368
+msgid "Light font, alternate background (or details)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:369
+msgid "Dark font, alternate background (or details)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:384
+msgid "Masonry Post Grid"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:384
+msgid "Masonry grid with posts"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:220
+msgid "Organic animation"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:220
+msgid "Organic animation card with image and text"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:223
+msgid "Subtitle"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:248
+msgid "Foreground shape"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:250
+msgid "Organic triangle (0)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:251
+msgid "Triangle rotation (1)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:252
+msgid "Triangle to circle (2)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:253
+msgid "Elastic cloud (3)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:254
+msgid "Fat cloud (4)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:255
+msgid "Smooth cloud (5)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:256
+msgid "Scaling bean (6)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:257
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:273
+msgid "Rotating bean (7)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:258
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:274
+msgid "Organic shape (8)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:259
+msgid "Star to fat star (9)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:260
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:276
+msgid "Organic star (10)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:261
+msgid "Rotating fat bean (11)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:264
+msgid "Background shape"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:266
+msgid "Smooth bean (0)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:267
+msgid "Elastic bean (1)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:268
+msgid "Circle to elipse (2)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:269
+msgid "Top cloud (3)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:270
+msgid "Fat bean (4)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:271
+msgid "Left cloud (5)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:272
+msgid "Scaling bean  (6)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:275
+msgid "Fat star (9)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:277
+msgid "Small elastic bean (11)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:280
+msgid "Background type"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:282
+msgid "Filled (alternate color)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:283
+msgid "Filled (accent color)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:284
+msgid "Filled (light color)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:285
+msgid "Outline (alternate color)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:286
+msgid "Outline (accent color)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:287
+msgid "Outline (dark color)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:290
+msgid "Custom background shape color"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_organic_animation/bt_bb_organic_animation.php:291
+#: php/after_framework/functions.php:708
+msgid "Text color scheme"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:79
+msgid "Progress Bar"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:79
+msgid "Progress bar"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:81
+msgid "Percentage"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:90
+msgid "Show percentage"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:96
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:149
+#: php/after_framework/functions.php:690
+msgid "Shape"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_promo/bt_bb_promo.php:70
+msgid "Promo"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_promo/bt_bb_promo.php:70
+msgid "Promo price with old price"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_promo/bt_bb_promo.php:73
+msgid "Old price"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_promo/bt_bb_promo.php:74
+msgid "Old price currency"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_promo/bt_bb_promo.php:75
+msgid "New price"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_promo/bt_bb_promo.php:76
+msgid "New price currency"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:126
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:130
+msgid "Schedule"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:126
+msgid "Schedule list"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:128
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:132
+msgid "Supertitle"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:130
+msgid "title;time1,time2,time3;day abbreviation (e.x. MON for monday);comment"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:132
+msgid "Selected days"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:134
+msgid "Monday"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:135
+msgid "Tuesday"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:136
+msgid "Wednesday"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:137
+msgid "Thursday"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:138
+msgid "Friday"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:139
+msgid "Saturday"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:140
+msgid "Sunday"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:143
+#: php/after_framework/functions.php:546 php/after_framework/functions.php:597
+#: php/after_framework/functions.php:680
+msgid "Style"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:145
+msgid "Style 01 (outline)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:146
+msgid "Style 02 (filled)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:162
+msgid "Current day color scheme"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:173
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:201
+msgid "Title dash"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:176
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:327
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:145
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:204
+msgid "Top"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:177
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:329
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:147
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:205
+#: php/after_framework/functions.php:809 php/after_framework/functions.php:848
+msgid "Bottom"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:178
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:206
+msgid "Top and bottom"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:181
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:209
+#: php/after_framework/functions.php:417
+msgid "Supertitle color scheme (for top dash)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:182
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:146
+msgid "Text font weight"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:185
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:149
+#: php/after_framework/customize_params.php:245
+#: php/after_framework/customize_params.php:283
+#: php/after_framework/customize_params.php:351
+#: php/after_framework/customize_params.php:450
+#: php/after_framework/customize_params.php:513
+#: php/after_framework/customize_params.php:551
+#: php/after_framework/functions.php:392 php/after_framework/functions.php:406
+#: php/after_framework/functions.php:421 php/after_framework/functions.php:524
+#: php/after_framework/functions.php:613
+msgid "Thin"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:186
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:150
+#: php/after_framework/customize_params.php:246
+#: php/after_framework/customize_params.php:284
+#: php/after_framework/customize_params.php:352
+#: php/after_framework/customize_params.php:451
+#: php/after_framework/customize_params.php:514
+#: php/after_framework/customize_params.php:552
+#: php/after_framework/functions.php:393 php/after_framework/functions.php:407
+#: php/after_framework/functions.php:422 php/after_framework/functions.php:525
+#: php/after_framework/functions.php:614
+msgid "Lighter"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:187
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:151
+#: framework/customization.php:416
+#: php/after_framework/customize_params.php:247
+#: php/after_framework/customize_params.php:285
+#: php/after_framework/customize_params.php:353
+#: php/after_framework/customize_params.php:452
+#: php/after_framework/customize_params.php:515
+#: php/after_framework/customize_params.php:553
+#: php/after_framework/functions.php:394 php/after_framework/functions.php:408
+#: php/after_framework/functions.php:423 php/after_framework/functions.php:526
+#: php/after_framework/functions.php:615 php/after_framework/functions.php:855
+msgid "Light"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:190
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:154
+#: php/after_framework/customize_params.php:250
+#: php/after_framework/customize_params.php:288
+#: php/after_framework/customize_params.php:356
+#: php/after_framework/customize_params.php:455
+#: php/after_framework/customize_params.php:518
+#: php/after_framework/customize_params.php:556
+#: php/after_framework/functions.php:397 php/after_framework/functions.php:411
+#: php/after_framework/functions.php:426 php/after_framework/functions.php:529
+#: php/after_framework/functions.php:618
+msgid "Semi bold"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:191
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:155
+#: php/after_framework/customize_params.php:251
+#: php/after_framework/customize_params.php:289
+#: php/after_framework/customize_params.php:357
+#: php/after_framework/customize_params.php:456
+#: php/after_framework/customize_params.php:519
+#: php/after_framework/customize_params.php:557
+#: php/after_framework/functions.php:398 php/after_framework/functions.php:412
+#: php/after_framework/functions.php:427 php/after_framework/functions.php:530
+#: php/after_framework/functions.php:619
+msgid "Bold"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:192
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:156
+#: php/after_framework/customize_params.php:252
+#: php/after_framework/customize_params.php:290
+#: php/after_framework/customize_params.php:358
+#: php/after_framework/customize_params.php:457
+#: php/after_framework/customize_params.php:520
+#: php/after_framework/customize_params.php:558
+#: php/after_framework/functions.php:399 php/after_framework/functions.php:413
+#: php/after_framework/functions.php:428 php/after_framework/functions.php:531
+#: php/after_framework/functions.php:620
+msgid "Bolder"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_schedule/bt_bb_schedule.php:193
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:157
+#: php/after_framework/customize_params.php:253
+#: php/after_framework/customize_params.php:291
+#: php/after_framework/customize_params.php:359
+#: php/after_framework/customize_params.php:458
+#: php/after_framework/customize_params.php:521
+#: php/after_framework/customize_params.php:559
+#: php/after_framework/functions.php:400 php/after_framework/functions.php:414
+#: php/after_framework/functions.php:429 php/after_framework/functions.php:532
+#: php/after_framework/functions.php:621
+msgid "Black"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:241
+msgid "Section"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:241
+msgid "Basic root element"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:243
+msgid "Layout"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:243
+#: php/after_framework/functions.php:71
+msgid "General"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:245
+msgid "Boxed (800px)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:246
+msgid "Boxed (900px)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:247
+msgid "Boxed (1000px)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:248
+msgid "Boxed (1100px)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:249
+msgid "Boxed (1200px)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:250
+msgid "Boxed (1300px)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:251
+msgid "Boxed (1400px)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:252
+msgid "Boxed (1500px)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:253
+msgid "Boxed (1600px)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:254
+msgid "Wide"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:257
+#: php/after_framework/functions.php:288
+msgid "Top spacing"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:259
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:290
+#: php/after_framework/functions.php:290 php/after_framework/functions.php:316
+msgid "No spacing"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:266
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:297
+#: php/after_framework/functions.php:49 php/after_framework/functions.php:118
+#: php/after_framework/functions.php:171 php/after_framework/functions.php:242
+#: php/after_framework/functions.php:297 php/after_framework/functions.php:323
+#: php/after_framework/functions.php:461
+msgid "5px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:267
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:298
+#: php/after_framework/functions.php:50 php/after_framework/functions.php:119
+#: php/after_framework/functions.php:172 php/after_framework/functions.php:243
+#: php/after_framework/functions.php:298 php/after_framework/functions.php:324
+#: php/after_framework/functions.php:462
+msgid "10px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:268
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:299
+#: php/after_framework/functions.php:51 php/after_framework/functions.php:120
+#: php/after_framework/functions.php:173 php/after_framework/functions.php:244
+#: php/after_framework/functions.php:299 php/after_framework/functions.php:325
+#: php/after_framework/functions.php:463 php/after_framework/functions.php:541
+msgid "15px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:269
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:300
+#: php/after_framework/functions.php:52 php/after_framework/functions.php:121
+#: php/after_framework/functions.php:174 php/after_framework/functions.php:245
+#: php/after_framework/functions.php:300 php/after_framework/functions.php:326
+#: php/after_framework/functions.php:464
+msgid "20px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:270
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:301
+#: php/after_framework/functions.php:53 php/after_framework/functions.php:122
+#: php/after_framework/functions.php:175 php/after_framework/functions.php:246
+#: php/after_framework/functions.php:301 php/after_framework/functions.php:327
+#: php/after_framework/functions.php:465
+msgid "25px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:271
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:302
+#: php/after_framework/functions.php:54 php/after_framework/functions.php:123
+#: php/after_framework/functions.php:176 php/after_framework/functions.php:247
+#: php/after_framework/functions.php:302 php/after_framework/functions.php:328
+#: php/after_framework/functions.php:466
+msgid "30px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:272
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:303
+#: php/after_framework/functions.php:55 php/after_framework/functions.php:124
+#: php/after_framework/functions.php:177 php/after_framework/functions.php:248
+#: php/after_framework/functions.php:303 php/after_framework/functions.php:329
+#: php/after_framework/functions.php:467
+msgid "35px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:273
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:304
+#: php/after_framework/functions.php:56 php/after_framework/functions.php:125
+#: php/after_framework/functions.php:178 php/after_framework/functions.php:249
+#: php/after_framework/functions.php:304 php/after_framework/functions.php:330
+#: php/after_framework/functions.php:468
+msgid "40px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:274
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:305
+#: php/after_framework/functions.php:57 php/after_framework/functions.php:126
+#: php/after_framework/functions.php:179 php/after_framework/functions.php:250
+#: php/after_framework/functions.php:305 php/after_framework/functions.php:331
+#: php/after_framework/functions.php:469
+msgid "45px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:275
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:306
+#: php/after_framework/functions.php:58 php/after_framework/functions.php:127
+#: php/after_framework/functions.php:180 php/after_framework/functions.php:251
+#: php/after_framework/functions.php:306 php/after_framework/functions.php:332
+#: php/after_framework/functions.php:470
+msgid "50px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:276
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:307
+#: php/after_framework/functions.php:59 php/after_framework/functions.php:128
+#: php/after_framework/functions.php:181 php/after_framework/functions.php:252
+#: php/after_framework/functions.php:471
+msgid "55px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:277
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:308
+#: php/after_framework/functions.php:60 php/after_framework/functions.php:129
+#: php/after_framework/functions.php:182 php/after_framework/functions.php:253
+#: php/after_framework/functions.php:307 php/after_framework/functions.php:333
+#: php/after_framework/functions.php:472
+msgid "60px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:278
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:309
+#: php/after_framework/functions.php:61 php/after_framework/functions.php:130
+#: php/after_framework/functions.php:183 php/after_framework/functions.php:254
+#: php/after_framework/functions.php:473
+msgid "65px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:279
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:310
+#: php/after_framework/functions.php:62 php/after_framework/functions.php:131
+#: php/after_framework/functions.php:184 php/after_framework/functions.php:255
+#: php/after_framework/functions.php:308 php/after_framework/functions.php:334
+#: php/after_framework/functions.php:474
+msgid "70px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:280
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:311
+#: php/after_framework/functions.php:63 php/after_framework/functions.php:132
+#: php/after_framework/functions.php:185 php/after_framework/functions.php:256
+#: php/after_framework/functions.php:475
+msgid "75px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:281
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:312
+#: php/after_framework/functions.php:64 php/after_framework/functions.php:133
+#: php/after_framework/functions.php:186 php/after_framework/functions.php:257
+#: php/after_framework/functions.php:309 php/after_framework/functions.php:335
+#: php/after_framework/functions.php:476
+msgid "80px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:282
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:313
+#: php/after_framework/functions.php:65 php/after_framework/functions.php:134
+#: php/after_framework/functions.php:187 php/after_framework/functions.php:258
+#: php/after_framework/functions.php:477
+msgid "85px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:283
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:314
+#: php/after_framework/functions.php:66 php/after_framework/functions.php:135
+#: php/after_framework/functions.php:188 php/after_framework/functions.php:259
+#: php/after_framework/functions.php:310 php/after_framework/functions.php:336
+#: php/after_framework/functions.php:478
+msgid "90px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:284
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:315
+#: php/after_framework/functions.php:67 php/after_framework/functions.php:136
+#: php/after_framework/functions.php:189 php/after_framework/functions.php:260
+#: php/after_framework/functions.php:479
+msgid "95px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:285
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:316
+#: php/after_framework/functions.php:68 php/after_framework/functions.php:137
+#: php/after_framework/functions.php:190 php/after_framework/functions.php:261
+#: php/after_framework/functions.php:311 php/after_framework/functions.php:337
+#: php/after_framework/functions.php:480
+msgid "100px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:288
+#: php/after_framework/functions.php:314
+msgid "Bottom spacing"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:319
+msgid "Full screen"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:325
+msgid "Vertical align (for fullscreen section)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:328
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:146
+msgid "Middle"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:333
+msgid "Background color"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:334
+#: php/after_framework/functions.php:71
+msgid "Background image"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:335
+msgid "Lazy load background image"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:341
+msgid "Background overlay"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:343
+msgid "No overlay"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:344
+msgid "Light stripes"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:345
+msgid "Dark stripes"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:346
+msgid "Light solid"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:347
+msgid "Dark solid"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:348
+msgid "Light gradient"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:349
+msgid "Dark gradient"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:353
+msgid "Top Section Coverage Image"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:354
+msgid "Bottom Section Coverage Image"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:356
+msgid "Top & Bottom Coverage Images position"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:358
+msgid "Top & Bottom Coverage Image above content"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:359
+msgid "Top & Bottom Coverage Image under content"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:360
+msgid "Only Top Coverage Image under content"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:361
+msgid "Bottom Coverage Image under content"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:365
+msgid "Parallax (e.g. 0.7)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:366
+msgid "Parallax offset in px (e.g. -100)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:367
+msgid "YouTube background video"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:367
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:368
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:369
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:370
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:371
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:372
+#: framework/config-meta-boxes.php:79 framework/config-meta-boxes.php:157
+msgid "Video"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:368
+msgid ""
+"YouTube video settings (e.g. startAt:20, mute:true, stopMovieOnBlur:false)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:369
+msgid "MP4 background video"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:370
+msgid "OGG background video"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:371
+msgid "WEBM background video"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_section/bt_bb_section.php:372
+msgid "Show Video on Mobile Devices"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:129
+msgid "Service"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:129
+msgid "Icon with text"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:135
+msgid "Icon position"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:138
+#: framework/customization.php:443
+msgid "Left"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:139
+msgid "Center"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:140
+#: framework/customization.php:444
+msgid "Right"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:143
+msgid "Content position"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:151
+#: php/after_framework/functions.php:625 php/after_framework/functions.php:710
+msgid ""
+"Enter full or local URL (e.g. https://www.bold-themes.com or /pages/about-"
+"us) or post slug (e.g. about-us) or search for existing content."
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:170
+msgid "Service Color scheme"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:170
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:171
+msgid ""
+"Define color schemes in Bold Builder settings or define accent and alternate "
+"colors in theme customizer (if avaliable)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:171
+msgid "Title & Text Color scheme"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:182
+msgid "Icon shape"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:185
+#: php/after_framework/functions.php:693 php/after_framework/functions.php:771
+msgid "Circle"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_service/bt_bb_service.php:187
+#: php/after_framework/functions.php:695 php/after_framework/functions.php:772
+msgid "Rounded Square"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:170
+msgid "Single product"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:172
+msgid "Product"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:172
+msgid "Choose WooCommerce product"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:175
+msgid "Hide categories"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:176
+msgid "Hide title"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:177
+msgid "Hide price"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:178
+msgid "Hide button"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:179
+msgid "Hide description"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:194
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:195
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:197
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:199
+msgid "Override"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:194
+msgid "Custom product image"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:195
+msgid "Custom product title"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:195
+msgid ""
+"Type custom product title to override or leave blank to display default title"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:197
+msgid ""
+"Type custom product price to override or leave blank to display default price"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:197
+msgid "Custom product price"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:199
+msgid ""
+"Type custom product description to override or leave blank to display "
+"default description"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_single_product/bt_bb_single_product.php:199
+msgid "Custom product description"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_steps/bt_bb_steps.php:59
+msgid "Steps"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_steps/bt_bb_steps.php:59
+msgid "Step line container"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_steps/bt_bb_steps.php:61
+msgid "Icon Color scheme"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:107
+msgid "Testimonial"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:107
+msgid "Testimonial with ratings, text and signature"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:109
+msgid "Rating"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:112
+msgid "1 star"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:113
+msgid "2 stars"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:114
+msgid "3 stars"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:115
+msgid "4 stars"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:116
+msgid "5 stars"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:123
+msgid "Signature"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:129
+msgid "Stars rating color"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:131
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:140
+#: php/after_framework/functions.php:347
+msgid "Accent color"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:132
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:141
+#: php/after_framework/functions.php:348
+msgid "Alternate color"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:135
+#: php/after_framework/functions.php:345
+msgid "Dark gray color"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_testimonial/bt_bb_testimonial.php:138
+msgid "Name color"
+msgstr ""
+
+#: framework/actions.php:78 framework/customization.php:436
+msgid "Sidebar"
+msgstr ""
+
+#: framework/actions.php:80
+msgid "Main sidebar"
+msgstr ""
+
+#: framework/amp.php:236 framework/amp.php:245
+msgctxt " font: on or off"
+msgid "on"
+msgstr ""
+
+#: framework/boldthemes_functions.php:640
+msgid "Newer Posts"
+msgstr ""
+
+#: framework/boldthemes_functions.php:641
+msgid "Older Posts"
+msgstr ""
+
+#: framework/boldthemes_functions.php:689
+msgid "Pingback:"
+msgstr ""
+
+#: framework/boldthemes_functions.php:689
+msgid "(Edit)"
+msgstr ""
+
+#: framework/boldthemes_functions.php:707
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: framework/boldthemes_functions.php:709
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: framework/boldthemes_functions.php:710
+msgid "out of 5"
+msgstr ""
+
+#: framework/boldthemes_functions.php:717
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/boldthemes_functions.php:727
+msgid "Reply"
+msgstr ""
+
+#: framework/boldthemes_functions.php:730
+msgid "Edit"
+msgstr ""
+
+#: framework/boldthemes_functions.php:1504 views/prev_next.php:25
+msgid "previous"
+msgstr ""
+
+#: framework/boldthemes_functions.php:1505 views/prev_next.php:51
+msgid "next"
+msgstr ""
+
+#: framework/boldthemes_functions.php:1627
+#: framework/boldthemes_functions.php:1631
+msgid "Home"
+msgstr ""
+
+#: framework/boldthemes_functions.php:1688 framework/woocommerce_hooks.php:156
+#: woocommerce/single-product/title.php:41
+msgid "N/A"
+msgstr ""
+
+#: framework/boldthemes_functions.php:1689 framework/woocommerce_hooks.php:158
+#: woocommerce/single-product/title.php:42
+msgid "SKU:"
+msgstr ""
+
+#: framework/boldthemes_functions.php:1732
+msgid "Tag"
+msgstr ""
+
+#: framework/boldthemes_functions.php:1738
+msgid "Author"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:381
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:391
+#: framework/class-tgm-plugin-activation.php:899
+#: framework/class-tgm-plugin-activation.php:2605
+#: framework/class-tgm-plugin-activation.php:3652
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:393
+#: framework/class-tgm-plugin-activation.php:3024
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:395
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:397
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:400
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:401
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:402
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:594
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:595
+msgid "Update Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1006
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1006
+#: framework/class-tgm-plugin-activation.php:1009
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1009
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1193
+#: framework/class-tgm-plugin-activation.php:3020
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2054
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2345
+msgid "Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2348
+msgid "Recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2364
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2367
+msgid "External Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2370
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2387
+msgid "Not Installed"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2391
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2393
+msgid "Active"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2399
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2402
+msgid "Requires Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2405
+msgid "Update recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2414
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2460
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2464
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2468
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2472
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2554
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2562
+msgid "Installed version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2570
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2582
+msgid "Available version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2605
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2619
+msgid "Plugin"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2620
+msgid "Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2621
+msgid "Type"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2625
+msgid "Version"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2626
+msgid "Status"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2675
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2680
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2686
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2756
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2789
+msgid "Install"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2795
+msgid "Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2798
+msgid "Activate"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2829
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2831
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2872
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2874
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2980
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3006
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3230
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3570
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3573
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3575
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3579
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3581
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3581
+#: framework/class-tgm-plugin-activation.php:3589
+msgid "Show Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3581
+#: framework/class-tgm-plugin-activation.php:3589
+msgid "Hide Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3582
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3584
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3587
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3589
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3590
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3592
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/config-meta-boxes.php:11 framework/config-meta-boxes.php:42
+#: framework/config-meta-boxes.php:136 framework/config-meta-boxes.php:190
+msgid "Settings"
+msgstr ""
+
+#: framework/config-meta-boxes.php:16 framework/config-meta-boxes.php:47
+msgid "Custom Primary Menu Name"
+msgstr ""
+
+#: framework/config-meta-boxes.php:25 framework/config-meta-boxes.php:55
+msgid "Custom Footer Menu Name"
+msgstr ""
+
+#: framework/config-meta-boxes.php:34 framework/config-meta-boxes.php:128
+#: framework/config-meta-boxes.php:182 framework/config-meta-boxes.php:195
+msgid "Override Global Settings"
+msgstr ""
+
+#: framework/config-meta-boxes.php:63 framework/config-meta-boxes.php:141
+msgid "Images"
+msgstr ""
+
+#: framework/config-meta-boxes.php:71 framework/config-meta-boxes.php:149
+msgid "Grid Gallery"
+msgstr ""
+
+#: framework/config-meta-boxes.php:87 framework/config-meta-boxes.php:165
+msgid "Audio"
+msgstr ""
+
+#: framework/config-meta-boxes.php:103
+msgid "Link URL"
+msgstr ""
+
+#: framework/config-meta-boxes.php:111
+msgid "Quote"
+msgstr ""
+
+#: framework/config-meta-boxes.php:119
+msgid "Quote Author"
+msgstr ""
+
+#: framework/config-meta-boxes.php:173
+msgid "Custom Fields"
+msgstr ""
+
+#: framework/customization.php:115
+msgid "Reset theme settings to default values?"
+msgstr ""
+
+#: framework/customization.php:150
+msgid "General Settings"
+msgstr ""
+
+#: framework/customization.php:154
+msgid "Header and Footer"
+msgstr ""
+
+#: framework/customization.php:158
+msgid "Typography"
+msgstr ""
+
+#: framework/customization.php:159
+msgid ""
+"Set the font family applied throughout the website. Theme uses Google "
+"webfonts."
+msgstr ""
+
+#: framework/customization.php:163
+msgid "Blog"
+msgstr ""
+
+#: framework/customization.php:171
+msgid "Shop"
+msgstr ""
+
+#: framework/customization.php:196
+msgid "Logo"
+msgstr ""
+
+#: framework/customization.php:197
+msgid ""
+"Main website logo, displayed in the header area, on Preloader screen and on "
+"Sticky Header. Logo size should match height defined in Header and Footer > "
+"Logo Height (in px)."
+msgstr ""
+
+#: framework/customization.php:219
+msgid "Alternate Sticky Header Logo"
+msgstr ""
+
+#: framework/customization.php:220
+msgid ""
+"If defined, used on top of the page when Content Below Menu and Sticky "
+"Header options are activated."
+msgstr ""
+
+#: framework/customization.php:242
+msgid "Primary Accent Color"
+msgstr ""
+
+#: framework/customization.php:264
+msgid "Secondary Accent Color"
+msgstr ""
+
+#: framework/customization.php:286
+msgid "Page Background"
+msgstr ""
+
+#: framework/customization.php:287
+msgid ""
+"Set static image as a site background. Minimum recommended size: 1920x1080px"
+msgstr ""
+
+#: framework/customization.php:309
+msgid "Page Width"
+msgstr ""
+
+#: framework/customization.php:316
+msgid "Boxed"
+msgstr ""
+
+#: framework/customization.php:334
+#: php/before_framework/customize_params.php:16
+msgid "Header Style"
+msgstr ""
+
+#: framework/customization.php:335
+msgid "Select header style for all the pages with default header turned on."
+msgstr ""
+
+#: framework/customization.php:341
+#: php/before_framework/customize_params.php:23
+msgid "Transparent Light"
+msgstr ""
+
+#: framework/customization.php:342
+#: php/before_framework/customize_params.php:24
+msgid "Transparent Dark"
+msgstr ""
+
+#: framework/customization.php:343
+#: php/before_framework/customize_params.php:28
+msgid "Accent + Dark"
+msgstr ""
+
+#: framework/customization.php:344
+#: php/before_framework/customize_params.php:29
+msgid "Light + Accent "
+msgstr ""
+
+#: framework/customization.php:345
+#: php/before_framework/customize_params.php:30
+msgid "Accent + Light"
+msgstr ""
+
+#: framework/customization.php:346
+#: php/before_framework/customize_params.php:31
+msgid "Light + Dark"
+msgstr ""
+
+#: framework/customization.php:347
+#: php/before_framework/customize_params.php:32
+msgid "Hidden"
+msgstr ""
+
+#: framework/customization.php:366
+msgid "Hide Default Headline"
+msgstr ""
+
+#: framework/customization.php:388
+msgid "Default Headline Supertitle Outside of H Tag"
+msgstr ""
+
+#: framework/customization.php:410
+msgid "Template skin"
+msgstr ""
+
+#: framework/customization.php:417 php/after_framework/functions.php:856
+msgid "Dark"
+msgstr ""
+
+#: framework/customization.php:442
+msgid "No Sidebar"
+msgstr ""
+
+#: framework/customization.php:463
+msgid "Use Dash in Template Headlines"
+msgstr ""
+
+#: framework/customization.php:485
+msgid "Disable Preloader"
+msgstr ""
+
+#: framework/customization.php:507
+msgid "Preloader Text"
+msgstr ""
+
+#: framework/customization.php:528
+msgid "Reset Theme Settings"
+msgstr ""
+
+#: framework/customization.php:551
+msgid "Logo Height (in px)"
+msgstr ""
+
+#: framework/customization.php:552
+msgid ""
+"Define the logo height by setting it’s size in pixels (without px unit)."
+msgstr ""
+
+#: framework/customization.php:574
+#: php/before_framework/customize_params.php:50
+msgid "Menu Type"
+msgstr ""
+
+#: framework/customization.php:575
+msgid ""
+"Set the menu layout for all the pages on the site. Menu can be horizontal, "
+"in line with logo or below logo, or vertical, on left or right."
+msgstr ""
+
+#: framework/customization.php:581
+#: php/before_framework/customize_params.php:57
+msgid "Horizontal Left"
+msgstr ""
+
+#: framework/customization.php:582
+#: php/before_framework/customize_params.php:58
+msgid "Horizontal Centered"
+msgstr ""
+
+#: framework/customization.php:583
+#: php/before_framework/customize_params.php:59
+msgid "Horizontal Right"
+msgstr ""
+
+#: framework/customization.php:584
+#: php/before_framework/customize_params.php:60
+msgid "Horizontal Left Below Logo"
+msgstr ""
+
+#: framework/customization.php:585
+#: php/before_framework/customize_params.php:61
+msgid "Horizontal Center Below Logo"
+msgstr ""
+
+#: framework/customization.php:586
+#: php/before_framework/customize_params.php:62
+msgid "Horizontal Right Below Logo"
+msgstr ""
+
+#: framework/customization.php:587
+#: php/before_framework/customize_params.php:63
+msgid "Vertical Left"
+msgstr ""
+
+#: framework/customization.php:588
+#: php/before_framework/customize_params.php:64
+msgid "Vertical Right"
+msgstr ""
+
+#: framework/customization.php:607
+msgid "Boxed Menu"
+msgstr ""
+
+#: framework/customization.php:629
+msgid "Show Content Below Menu"
+msgstr ""
+
+#: framework/customization.php:651
+msgid "Use Sticky Header"
+msgstr ""
+
+#: framework/customization.php:673
+msgid "Hide Menu on Load"
+msgstr ""
+
+#: framework/customization.php:695
+msgid "Use Dark Skin in Footer"
+msgstr ""
+
+#: framework/customization.php:717
+msgid "Custom Footer Text"
+msgstr ""
+
+#: framework/customization.php:718
+msgid "Enter any text shown in footer (e.g. Copyright notice)."
+msgstr ""
+
+#: framework/customization.php:740
+msgid "Footer Page"
+msgstr ""
+
+#: framework/customization.php:741
+msgid ""
+"Use static page with content as a footer template for all pages. Select the "
+"page that serves as a template for footer."
+msgstr ""
+
+#: framework/customization.php:766
+msgid "Body Font"
+msgstr ""
+
+#: framework/customization.php:789
+msgid "Heading Font"
+msgstr ""
+
+#: framework/customization.php:812
+msgid "Heading Supertitle Font"
+msgstr ""
+
+#: framework/customization.php:835
+msgid "Heading Subtitle Font"
+msgstr ""
+
+#: framework/customization.php:858
+#: php/before_framework/customize_params.php:151
+msgid "Menu Font"
+msgstr ""
+
+#: framework/customization.php:881
+#: php/before_framework/customize_params.php:126
+msgid "Buttons Shape"
+msgstr ""
+
+#: framework/customization.php:887
+#: php/before_framework/customize_params.php:132
+msgid "Hard Rounded"
+msgstr ""
+
+#: framework/customization.php:888
+#: php/before_framework/customize_params.php:133
+msgid "Soft Rounded"
+msgstr ""
+
+#: framework/customization.php:910 framework/customization.php:1160
+msgid "Grid Gallery Columns"
+msgstr ""
+
+#: framework/customization.php:911
+msgid ""
+"Define number of columns in grid gallery. Works only for Gallery post format."
+msgstr ""
+
+#: framework/customization.php:940 framework/customization.php:1190
+msgid "Grid Gallery Gap"
+msgstr ""
+
+#: framework/customization.php:941
+msgid "Define the gap between grid gallery items."
+msgstr ""
+
+#: framework/customization.php:969 framework/customization.php:1246
+msgid "Archive Layout"
+msgstr ""
+
+#: framework/customization.php:970
+msgid ""
+"Set the layouts for blog archive pages - main Blog page, Archive, Category "
+"and Tag pages."
+msgstr ""
+
+#: framework/customization.php:976 framework/customization.php:1004
+#: framework/customization.php:1226 framework/customization.php:1253
+msgid "Standard"
+msgstr ""
+
+#: framework/customization.php:997
+msgid "Single Post Layout"
+msgstr ""
+
+#: framework/customization.php:998
+msgid ""
+"Single post layout - one column or two columns (for media box and the "
+"content)."
+msgstr ""
+
+#: framework/customization.php:1024
+msgid "Show Author Name"
+msgstr ""
+
+#: framework/customization.php:1046
+msgid "Show Post Date"
+msgstr ""
+
+#: framework/customization.php:1068
+msgid "Show Author Avatar in Post List"
+msgstr ""
+
+#: framework/customization.php:1090
+msgid "Show Author Info in Single Post"
+msgstr ""
+
+#: framework/customization.php:1112 framework/customization.php:1273
+#: framework/customization.php:1367
+msgid "Use Dash in Headlines"
+msgstr ""
+
+#: framework/customization.php:1134 framework/customization.php:1295
+#: framework/customization.php:1389
+msgid "Settings Page"
+msgstr ""
+
+#: framework/customization.php:1135
+msgid ""
+"Use static page with content as a template for all single posts. Select the "
+"page which serves as a template."
+msgstr ""
+
+#: framework/customization.php:1161
+msgid "Define the number of columns for grid gallery on portfolio items."
+msgstr ""
+
+#: framework/customization.php:1191
+msgid "Define the gap between grid gallery items in pixels."
+msgstr ""
+
+#: framework/customization.php:1219
+msgid "Single project view"
+msgstr ""
+
+#: framework/customization.php:1220
+msgid ""
+"Define layout for all single portfolio items pages - one column or two "
+"columns."
+msgstr ""
+
+#: framework/customization.php:1247
+msgid ""
+"Set the layout of the main Portfolio page, Archive, Category, and Tag pages."
+msgstr ""
+
+#: framework/customization.php:1296
+msgid ""
+"Use this page to create template for the single portfolio post. For "
+"portfolio list create page with slug 'portfolio'."
+msgstr ""
+
+#: framework/customization.php:1319
+msgid "Portfolio Slug"
+msgstr ""
+
+#: framework/customization.php:1320
+msgid ""
+"This value will be used to generate urls for Portfolio custom post type. To "
+"apply changes, go to Settings > Permalinks and click Save Changes"
+msgstr ""
+
+#: framework/customization.php:1342
+msgid "Portfolio Category Slug"
+msgstr ""
+
+#: framework/customization.php:1343
+msgid ""
+"This value will be used to generate urls for Portfolio category custom post "
+"type. To apply changes, go to Settings > Permalinks and click Save Changes"
+msgstr ""
+
+#: framework/customization.php:1390
+msgid ""
+"Select a page with content which serves as a template for all single product "
+"pages."
+msgstr ""
+
+#: framework/filters.php:61
+msgid "Looking for..."
+msgstr ""
+
+#: framework/web_fonts.php:10
+msgid "(custom font)"
+msgstr ""
+
+#: framework/web_fonts.php:15
+msgid "No Change"
+msgstr ""
+
+#: framework/woocommerce_hooks.php:93 woocommerce/cart/mini-cart.php:31
+msgid "View your shopping cart"
+msgstr ""
+
+#: framework/editor-buttons/editor-lang.php:5
+msgid "Drop Cap"
+msgstr ""
+
+#: framework/editor-buttons/editor-lang.php:6
+msgid "Highlight"
+msgstr ""
+
+#: php/after_framework/customize_params.php:27
+msgid "Crest"
+msgstr ""
+
+#: php/after_framework/customize_params.php:28
+msgid ""
+"Main website crest, displayed in the header area, next to main logo. Crest "
+"size should match height defined in Header and Footer > Crest Height (in px)."
+msgstr ""
+
+#: php/after_framework/customize_params.php:53
+msgid "Crest Width (in px)"
+msgstr ""
+
+#: php/after_framework/customize_params.php:54
+msgid ""
+"Define the crest height by setting it’s size in pixels (without px unit)."
+msgstr ""
+
+#: php/after_framework/customize_params.php:79
+msgid "Sticky Logo Height (in px)"
+msgstr ""
+
+#: php/after_framework/customize_params.php:80
+msgid ""
+"Define the sticky logo height by setting it’s size in pixels (without px "
+"unit)"
+msgstr ""
+
+#: php/after_framework/customize_params.php:104
+msgid "Fullscreen Menu Background Image"
+msgstr ""
+
+#: php/after_framework/customize_params.php:105
+msgid ""
+"Set static image as a vertical fullscreen menu background. Minimum "
+"recommended size: 1920x1080px"
+msgstr ""
+
+#: php/after_framework/customize_params.php:129
+msgid "Fullscreen Menu Background Opacity"
+msgstr ""
+
+#: php/after_framework/customize_params.php:130
+msgid ""
+"Set opacity for static image which is a vertical fullscreen menu background. "
+"Ex. 0.8"
+msgstr ""
+
+#: php/after_framework/customize_params.php:155
+msgid "Enable Back To Top"
+msgstr ""
+
+#: php/after_framework/customize_params.php:156
+msgid ""
+"Checking this enables the small feature that shows the styled back to top "
+"element at the bottom of the page, which appears after some scrolling."
+msgstr ""
+
+#: php/after_framework/customize_params.php:180
+msgid "Back To Top Text"
+msgstr ""
+
+#: php/after_framework/customize_params.php:181
+msgid ""
+"You can add text to your back to top button, but if you leave it blank "
+"you'll get only an arrow pointing upwards, which is also nice."
+msgstr ""
+
+#: php/after_framework/customize_params.php:206
+msgid "Custom Error 404 Page Image"
+msgstr ""
+
+#: php/after_framework/customize_params.php:207
+msgid ""
+"Set static image as a background on Error page. Minimum recommended size: "
+"1920x1080px"
+msgstr ""
+
+#: php/after_framework/customize_params.php:238
+msgid "Body Font Weight"
+msgstr ""
+
+#: php/after_framework/customize_params.php:276
+msgid "Heading Font Weight"
+msgstr ""
+
+#: php/after_framework/customize_params.php:314
+msgid "Heading Font Style"
+msgstr ""
+
+#: php/after_framework/customize_params.php:321
+msgid "Italic"
+msgstr ""
+
+#: php/after_framework/customize_params.php:344
+msgid "Supertitle Font Weight"
+msgstr ""
+
+#: php/after_framework/customize_params.php:382
+msgid "Supertitle Top Dash Style"
+msgstr ""
+
+#: php/after_framework/customize_params.php:389
+msgid "Skew"
+msgstr ""
+
+#: php/after_framework/customize_params.php:412
+msgid "Supertitle Top Dash Color"
+msgstr ""
+
+#: php/after_framework/customize_params.php:413
+msgid ""
+"Define Top Dash color in Blog, Portfolio & Shop Headlines, Page Headline, "
+"Widgets etc."
+msgstr ""
+
+#: php/after_framework/customize_params.php:419
+msgid "Light font, accent background"
+msgstr ""
+
+#: php/after_framework/customize_params.php:420
+msgid "Dark font, accent background"
+msgstr ""
+
+#: php/after_framework/customize_params.php:443
+msgid "Subtitle Font Weight"
+msgstr ""
+
+#: php/after_framework/customize_params.php:479
+msgid "Button Font"
+msgstr ""
+
+#: php/after_framework/customize_params.php:506
+msgid "Button Font Weight"
+msgstr ""
+
+#: php/after_framework/customize_params.php:544
+msgid "Menu Font Weight"
+msgstr ""
+
+#: php/after_framework/customize_params.php:580
+msgid "Capitalize Menu Items"
+msgstr ""
+
+#: php/after_framework/customize_params.php:606
+msgid "Capitalize Headlines"
+msgstr ""
+
+#: php/after_framework/customize_params.php:607
+msgid "Capitalize Blog, Portfolio, Shop Headlines, Page Headline, Widgets etc."
+msgstr ""
+
+#: php/after_framework/functions.php:39 php/after_framework/functions.php:108
+#: php/after_framework/functions.php:451
+msgid "Top negative margin"
+msgstr ""
+
+#: php/after_framework/functions.php:39 php/after_framework/functions.php:108
+msgid "This option will move Row to the top (disabled on screens <992px)"
+msgstr ""
+
+#: php/after_framework/functions.php:41 php/after_framework/functions.php:110
+#: php/after_framework/functions.php:453
+msgid "No margin"
+msgstr ""
+
+#: php/after_framework/functions.php:48 php/after_framework/functions.php:117
+#: php/after_framework/functions.php:384 php/after_framework/functions.php:460
+msgid "Huge"
+msgstr ""
+
+#: php/after_framework/functions.php:165 php/after_framework/functions.php:236
+msgid "Inner padding"
+msgstr ""
+
+#: php/after_framework/functions.php:168 php/after_framework/functions.php:239
+msgid "Double"
+msgstr ""
+
+#: php/after_framework/functions.php:169 php/after_framework/functions.php:240
+msgid "Text Indent"
+msgstr ""
+
+#: php/after_framework/functions.php:170 php/after_framework/functions.php:241
+msgid "0px"
+msgstr ""
+
+#: php/after_framework/functions.php:193 php/after_framework/functions.php:264
+msgid "Inner color scheme"
+msgstr ""
+
+#: php/after_framework/functions.php:196
+msgid "Top Left Corner"
+msgstr ""
+
+#: php/after_framework/functions.php:196
+msgid "Soft Rouned Shape"
+msgstr ""
+
+#: php/after_framework/functions.php:198
+msgid "Top Right Corner"
+msgstr ""
+
+#: php/after_framework/functions.php:200
+msgid "Bottom Left Corner"
+msgstr ""
+
+#: php/after_framework/functions.php:202
+msgid "Bottom Right Corner"
+msgstr ""
+
+#: php/after_framework/functions.php:340
+msgid "Border color"
+msgstr ""
+
+#: php/after_framework/functions.php:346
+msgid "Light gray color"
+msgstr ""
+
+#: php/after_framework/functions.php:375
+msgid "Predefined heading sizes, independent of html tag"
+msgstr ""
+
+#: php/after_framework/functions.php:378
+msgid "Extra Small"
+msgstr ""
+
+#: php/after_framework/functions.php:383
+msgid "Extra Large"
+msgstr ""
+
+#: php/after_framework/functions.php:385
+msgid "Extra Huge"
+msgstr ""
+
+#: php/after_framework/functions.php:386
+msgid "Extra Extra Huge"
+msgstr ""
+
+#: php/after_framework/functions.php:389 php/after_framework/functions.php:521
+#: php/after_framework/functions.php:610
+msgid "Font weight"
+msgstr ""
+
+#: php/after_framework/functions.php:389 php/after_framework/functions.php:403
+#: php/after_framework/functions.php:418
+msgid "Font"
+msgstr ""
+
+#: php/after_framework/functions.php:403
+msgid "Supertitle font weight"
+msgstr ""
+
+#: php/after_framework/functions.php:418
+msgid "Subtitle font weight"
+msgstr ""
+
+#: php/after_framework/functions.php:432
+msgid "Stroke Headline"
+msgstr ""
+
+#: php/after_framework/functions.php:438
+msgid "Rotate Headline"
+msgstr ""
+
+#: php/after_framework/functions.php:441
+msgid "Yes (-6deg)"
+msgstr ""
+
+#: php/after_framework/functions.php:442
+msgid "Yes (-20deg)"
+msgstr ""
+
+#: php/after_framework/functions.php:445
+msgid "Disable Rotate Headline on responsive"
+msgstr ""
+
+#: php/after_framework/functions.php:448
+msgid "Yes (<991px)"
+msgstr ""
+
+#: php/after_framework/functions.php:451
+msgid "This option will move Headline to the top (disabled on screens <992px)"
+msgstr ""
+
+#: php/after_framework/functions.php:535
+msgid "Font size"
+msgstr ""
+
+#: php/after_framework/functions.php:538
+msgid "12px"
+msgstr ""
+
+#: php/after_framework/functions.php:539
+msgid "13px"
+msgstr ""
+
+#: php/after_framework/functions.php:540
+msgid "14px"
+msgstr ""
+
+#: php/after_framework/functions.php:542
+msgid "16px"
+msgstr ""
+
+#: php/after_framework/functions.php:543
+msgid "17px"
+msgstr ""
+
+#: php/after_framework/functions.php:549
+msgid "Opacity 60%"
+msgstr ""
+
+#: php/after_framework/functions.php:601 php/after_framework/functions.php:884
+msgid "Clean"
+msgstr ""
+
+#: php/after_framework/functions.php:602 php/after_framework/functions.php:885
+msgid "Half Filled"
+msgstr ""
+
+#: php/after_framework/functions.php:603 php/after_framework/functions.php:886
+msgid "Skew Filled"
+msgstr ""
+
+#: php/after_framework/functions.php:604
+msgid "Special Filled (outline icon)"
+msgstr ""
+
+#: php/after_framework/functions.php:605
+msgid "Special Filled (filled icon)"
+msgstr ""
+
+#: php/after_framework/functions.php:606
+msgid "Special Outline (filled icon)"
+msgstr ""
+
+#: php/after_framework/functions.php:607
+msgid "Special Skew Filled"
+msgstr ""
+
+#: php/after_framework/functions.php:700
+msgid "Extra extra small"
+msgstr ""
+
+#: php/after_framework/functions.php:711
+msgid "Mouse hover title"
+msgstr ""
+
+#: php/after_framework/functions.php:768
+msgid "Map shape"
+msgstr ""
+
+#: php/after_framework/functions.php:798 php/after_framework/functions.php:853
+msgid "Navigation line color"
+msgstr ""
+
+#: php/after_framework/functions.php:800
+msgid "Light & Accent color"
+msgstr ""
+
+#: php/after_framework/functions.php:801
+msgid "Dark & Accent color"
+msgstr ""
+
+#: php/after_framework/functions.php:802
+msgid "Dark & Light color"
+msgstr ""
+
+#: php/after_framework/functions.php:803
+msgid "Accent & Alternate color"
+msgstr ""
+
+#: php/after_framework/functions.php:804
+msgid "Alternate & Accent color"
+msgstr ""
+
+#: php/after_framework/functions.php:807 php/after_framework/functions.php:846
+msgid "Navigation line position"
+msgstr ""
+
+#: php/after_framework/functions.php:810 php/after_framework/functions.php:849
+msgid "Below"
+msgstr ""
+
+#: php/after_framework/functions.php:811 php/after_framework/functions.php:850
+msgid "Hide"
+msgstr ""
+
+#: php/after_framework/functions.php:812
+msgid "On right"
+msgstr ""
+
+#: php/after_framework/functions.php:815
+msgid "Navigation arrow position"
+msgstr ""
+
+#: php/after_framework/functions.php:817
+msgid "On side"
+msgstr ""
+
+#: php/after_framework/functions.php:818
+msgid "Outside slider"
+msgstr ""
+
+#: php/after_framework/functions.php:857
+msgid "Accent"
+msgstr ""
+
+#: php/after_framework/functions.php:858
+msgid "Alternate"
+msgstr ""
+
+#: php/after_framework/functions.php:880
+msgid "Submit button style"
+msgstr ""
+
+#: php/after_framework/functions.php:882
+msgid "Outline (default)"
+msgstr ""
+
+#: php/after_framework/functions.php:887
+msgid "Special Filled"
+msgstr ""
+
+#: php/after_framework/functions.php:890
+msgid "Submit button colors"
+msgstr ""
+
+#: php/after_framework/functions.php:892
+msgid "Light color font, Accent background color (default)"
+msgstr ""
+
+#: php/after_framework/functions.php:893
+msgid "Dark color font, Accent background color"
+msgstr ""
+
+#: php/after_framework/functions.php:894
+msgid "Dark color font, Alternate background color"
+msgstr ""
+
+#: php/after_framework/functions.php:895
+msgid "Light color font, Alternate background color"
+msgstr ""
+
+#: php/after_framework/functions.php:896
+msgid "Dark color font, Light background color"
+msgstr ""
+
+#: php/after_framework/functions.php:897
+msgid "Light color font, Dark background color"
+msgstr ""
+
+#: php/after_framework/functions.php:898
+msgid "Accent color font, Light background color (default)"
+msgstr ""
+
+#: php/after_framework/functions.php:901
+msgid "Input fields style"
+msgstr ""
+
+#: php/after_framework/functions.php:903
+msgid "Gray Color Outline (default)"
+msgstr ""
+
+#: php/after_framework/functions.php:904
+msgid "Light Color Outline"
+msgstr ""
+
+#: php/after_framework/functions.php:905
+msgid "Gray Color Border Bottom"
+msgstr ""
+
+#: php/after_framework/functions.php:906
+msgid "Light Color Border Bottom"
+msgstr ""
+
+#: php/after_framework/functions.php:907
+msgid "Gray Color Filled"
+msgstr ""
+
+#: php/after_framework/functions.php:908
+msgid "Light Color Filled"
+msgstr ""
+
+#: php/after_framework/functions.php:911
+msgid "Input fields colors"
+msgstr ""
+
+#: php/after_framework/functions.php:913
+msgid "Dark color (default)"
+msgstr ""
+
+#: php/before_framework/customize_params.php:17
+msgid "Select header style for all the pages on the site."
+msgstr ""
+
+#: php/before_framework/customize_params.php:25
+msgid "Special Transparent Light"
+msgstr ""
+
+#: php/before_framework/customize_params.php:26
+msgid "Dark + Transparent Light"
+msgstr ""
+
+#: php/before_framework/customize_params.php:27
+msgid "Accent + Transparent Light"
+msgstr ""
+
+#: php/before_framework/customize_params.php:51
+msgid ""
+"Set the menu layout for all the pages on the site. Menu can be horizontal, "
+"in line with logo or below logo, or vertical on left or right, or fullscreen "
+"vertical hidden by default."
+msgstr ""
+
+#: php/before_framework/customize_params.php:65
+msgid "Vertical Full Screen"
+msgstr ""
+
+#: php/before_framework/customize_params.php:83
+msgid "Supertitle Font"
+msgstr ""
+
+#: php/before_framework/customize_params.php:104
+msgid "Subtitle Font"
+msgstr ""
+
+#: views/portfolio/list/standard.php:46
+msgid "CONTINUE READING"
+msgstr ""
+
+#: views/post/list/standard.php:84
+msgid "READ MORE"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:28
+msgid "Search products&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:39
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:41
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:102
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:106
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:115
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:56
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:94
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:102
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:107
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:108
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+msgid "quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:31
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:32
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:14
+msgid "Password reset email has been sent."
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:17
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""

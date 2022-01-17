@@ -1,0 +1,113 @@
+/* TODO: uvesti fontove tek kada je potrebno? */
+
+/*  7-stroke (http://themes-pixeden.com/font-demos/7-stroke/index.html) */
+
+@font-face {
+    font-family: 'Icon7Stroke';
+    src:url('../fonts/Pe-icon-7-stroke.eot?d7yf1v');
+    src:url('../fonts/Pe-icon-7-stroke.eot?#iefixd7yf1v') format('embedded-opentype'),
+    url('../fonts/Pe-icon-7-stroke.woff?d7yf1v') format('woff'),
+    url('../fonts/Pe-icon-7-stroke.ttf?d7yf1v') format('truetype'),
+    url('../fonts/Pe-icon-7-stroke.svg?d7yf1v#Pe-icon-7-stroke') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* FontAwesome5Brands */
+
+@font-face {
+  font-family: 'FontAwesome5Brands';
+  src: url('../fonts/FontAwesome5Brands.woff?v=1.1.1') format('woff'), url('../fonts/FontAwesome5Brands.ttf?v=1.1.1') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}  
+
+/* FontAwesome */
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('../fonts/fontawesome-webfont.eot?v=4.6.3');
+  src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.6.3') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.6.3') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.6.3') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.6.3') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}  
+
+[data-ico-fa]:before {
+  font-family: FontAwesome;
+  content: attr(data-ico-fa);
+}
+
+[data-ico-s7]:before {
+  font-family: Icon7Stroke;
+  content: attr(data-ico-s7);
+}
+
+[data-ico-fa5b]:before {
+  font-family: FontAwesome5Brands;
+  content: attr(data-ico-fa5b);
+}
+
+/* Variables */
+
+@set defaultHorizontalMargin 2.5;
+@set defaultVerticalMargin 3;
+@set defaultMarkerTop 2;
+@set defaultIconTop 3;
+@set defaultContentPadding 1; /* rem */
+@set defaultSliderGroupSmallMargin 7; /* rem */
+@set defaultSliderGroupLargeMargin 9; /* rem */
+@set defaultVerticalItemMargin 2.5; /* rem */
+
+@set defaultAnimationDistance 100; 
+
+@set defaultCircleSize 22;
+@set defaultSmallCircleSize 12;
+@set defaultDotSize 16;
+@set defaultIconSize 3; /* rem */
+@set defaultTriangleSize 10;
+
+@set defaultSmallTitleSize 1; /* rem */
+@set defaultNormalTitleSize 1.5; /* rem */
+@set defaultLargeTitleSize 2; /* rem */
+
+@set defaultSoftRoundedRadius 5; /* px */
+@set defaultHardRoundedRadius 15; /* px */
+
+/* TODO: na kraju ne bi trebali da imamo defaultLineThickness */
+
+@set defaultLineThickness 2;
+@set defaultLineThicknessNormal 2;
+@set defaultLineThicknessThin 1;
+@set defaultLineThicknessThick 4;
+
+@set defaultLineColor #eeeeee;
+@set defaultGroupColor #181818;
+@set defaultFrameColor #eeeeee;
+@set defaultItemBackgroundColor #fff;
+@set defaultMarkerColor #008ed4;
+@set defaultConnectionColor #eeeeee;
+@set defaultIconColor #008ed4;
+@set defaultButtonColor #008ed4;
+@set defaultStickerColor #27b6fd;
+@set defaultSliderNavigationColor #27b6fd;
+
+/* FRAGMENTS */
+
+@fragment btAbsoluteFull {
+	content: " ";
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+@fragment btClear {
+	&:after {
+		content: " ";
+		display: table;
+		width: 100%;
+		clear: both;
+	}
+}
+

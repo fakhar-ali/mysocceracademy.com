@@ -1,0 +1,163 @@
+@page { 
+    size: 210mm 297mm; 
+    margin: 0;
+}
+body {
+	font-size: 15px;
+	line-height: 1.8;
+	page-break-inside: avoid;
+}
+* {
+	box-sizing: border-box !important;
+	background: #FFF !important;
+	color: #000 !important;
+}
+h1, h2, h3, h4, h5, h6 {
+	line-height: 1.25em;
+	margin-top: .5em;
+	margin-bottom: .5em;
+}
+h1 {
+	font-size: 3.5rem !important;
+}
+h2 {
+	font-size: 3rem !important;
+}
+h3 {
+	font-size: 2.75rem !important;
+}
+h4 {
+	font-size: 2.5rem !important;
+}
+h5 {
+	font-size: 2.25rem !important;
+}
+h6 {
+	font-size: 2rem !important;
+}
+.animate {
+	display: block !important;
+	opacity: 1 !important;
+	transform: none !important;
+	transition: none !important;
+	transition-delay: 0ms !important;
+}
+.mainHeader, .btSidebar, .btSearchInner, .btAltLogo, .bt-vertical-header-top, .slick-arrow, .slick-dots, .bt-site-footer, .bt_bb_fe_preview_toggler {
+	display: none !important;
+	opacity: 0 !important;
+	visibility: hidden !important;
+}
+.bt_bb_fe_wrap {
+	min-height: 0;
+}
+.bt_bb_fe_wrap:before, .bt_bb_fe_count {
+	display: none !important;
+	opacity: 0 !important;
+	visibility: hidden !important;
+}
+.bt_bb_section[style*="background-image"] {
+	background: #FFF !important;
+}
+.bt_bb_section:before {
+	display: none !important;
+}
+a {
+	text-decoration: none !important;
+	color: #000 !important;
+}
+.bt_bb_icon_holder:before, .bt_bb_icon_holder {
+	background: transparent !important;
+	box-shadow: none !important;
+	color: #000 !important;
+}
+.bt_bb_button {
+	margin-bottom: 0;
+}
+.bt_bb_button a, .bt_bb_button a span{
+	background: #FFF !important;
+	color: #000 !important;
+	box-shadow: none !important;
+	border: 2px solid #000 !important;
+}
+.bt_bb_button a span {
+	border: 0 !important;
+}
+
+/* Theme related */
+.bt_bb_group {
+	min-height: 0 !important;
+}
+.bt_bb_group_item_content_no_hover, .bt_bb_group_item_content_image, .bt_bb_outline_text, .bt_bb_map {
+	display: none !important;
+	opacity: 0 !important;
+	visibility: hidden !important;
+}
+.slick-list {
+	margin: 0 !important;
+}
+.bt_bb_button[class*="bt_bb_color_scheme_"] a.bt_bb_link,
+.bt_bb_button[class*="bt_bb_color_scheme_"] a.bt_bb_link span.bt_bb_button_text,
+.btWorkingHours[class*="bt_bb_color_scheme_"] .btWorkingHoursInner .bt_bb_working_hours_inner_row .bt_bb_working_hours_inner_wrapper .bt_bb_working_hours_inner_link a {
+	background: #FFF !important;
+	color: #000 !important;
+}
+.bt_bb_progress_bar.bt_bb_style_outline[class*="bt_bb_color_scheme_"] .bt_bb_progress_bar_inner,
+.bt_bb_progress_bar.bt_bb_style_line[class*="bt_bb_color_scheme_"] .bt_bb_progress_bar_inner {
+	border-color: #000 !important;
+}
+.bt_bb_progress_bar .bt_bb_progress_bar_inner .bt_bb_progress_bar_percent {
+	padding: 0 10px;
+}
+.bt_bb_separator.bt_bb_border_style_solid {
+	display: none !important;
+	opacity: 0 !important;
+	visibility: hidden !important;
+}
+.bt_bb_headline .bt_bb_headline_superheadline {
+	font-size: 1rem !important;
+	line-height: 1.8em !important;
+}
+.bt_bb_counter_holder {
+	line-height: 1em;
+}
+.bt_bb_counter_holder .bt_bb_counter span.onedigit {
+	transition: none !important;
+	transition-delay: 0ms !important;
+	transform: none !important;
+}
+.bt_bb_counter_holder .bt_bb_counter span.onedigit:before {
+	content: attr(data-digit) !important;
+}
+.bt_bb_counter_holder .bt_bb_counter span.onedigit > span {
+	display: none !important;
+}
+.slick-slider .slick-list {
+	height: auto !important;
+}
+.bt_bb_image.bt_bb_content_exists .bt_bb_image_content,
+.bt_bb_image.bt_bb_content_exists .bt_bb_image_content .bt_bb_image_content_flex {
+	background: transparent !important;
+}
+.btFooterAlternateIcon.bt_bb_icon .bt_bb_icon_holder:before,
+.btFooterAccentIcon.bt_bb_icon .bt_bb_icon_holder:before {
+	color: #000 !important;
+}
+.fancy-select select {
+	display: initial !important;
+}
+.fancy-select .trigger, .fancy-select .options {
+	display: none !important;
+}
+.bt_bb_image.bt_bb_shape_hard-rounded,
+.bt_bb_image.bt_bb_shape_hard-rounded img {
+	border-radius: 0 !important;
+}
+.bt_bb_floating_element, .bt_bb_floating_image {
+	display: none !important;
+}
+.bt_bb_section_bottom_section_coverage_image,
+.bt_bb_section_top_section_coverage_image {
+	display: none !important;
+	opacity: 0 !important;
+	visibility: hidden !important;
+}

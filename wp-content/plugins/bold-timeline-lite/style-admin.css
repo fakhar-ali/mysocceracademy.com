@@ -1,0 +1,195 @@
+@font-face {
+    font-family: 'Icon7Stroke';
+    src: url(assets/fonts/Pe-icon-7-stroke.eot?d7yf1v);
+    src: url(assets/fonts/Pe-icon-7-stroke.eot?#iefixd7yf1v) format('embedded-opentype'),url(assets/fonts/Pe-icon-7-stroke.woff?d7yf1v) format('woff'),url(assets/fonts/Pe-icon-7-stroke.ttf?d7yf1v) format('truetype'),url(assets/fonts/Pe-icon-7-stroke.svg?d7yf1v#Pe-icon-7-stroke) format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* FontAwesome5Brands */
+@font-face {
+    font-family: 'FontAwesome5Brands';
+    src: url(assets/fonts/FontAwesome5Brands.woff?v=1.1.1) format('woff'),url(assets/fonts/FontAwesome5Brands.ttf?v=1.1.1) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* FontAwesome */
+@font-face {
+    font-family: 'FontAwesome';
+    src: url(assets/fonts/fontawesome-webfont.eot?v=4.6.3);
+    src: url(assets/fonts/fontawesome-webfont.eot?#iefix&v=4.6.3) format('embedded-opentype'),url(assets/fonts/fontawesome-webfont.woff2?v=4.6.3) format('woff2'),url(assets/fonts/fontawesome-webfont.woff?v=4.6.3) format('woff'),url(assets/fonts/fontawesome-webfont.ttf?v=4.6.3) format('truetype'),url(assets/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular) format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+[data-ico-fa]:before {
+    font-family: FontAwesome;
+    content: attr(data-ico-fa);
+}
+[data-ico-s7]:before {
+    font-family: Icon7Stroke;
+    content: attr(data-ico-s7);
+}
+[data-ico-fa5b]:before {
+    font-family: FontAwesome5Brands;
+
+}
+
+.bt_bb_icon_preview_fa5b {
+	font-family: FontAwesome5Brands;
+}
+
+/**/
+#bt_bb_dialog .bt_bb_dialog_content .bold_timeline_item_text_icon:before,
+#bt_bb_dialog .bt_bb_dialog_content .bold_timeline_item_separator_icon:before,
+#bt_bb_dialog .bt_bb_dialog_content .bold_timeline_item_button_icon:before,
+#bt_bb_dialog .bt_bb_dialog_content .bt_bb_icon_bold_timeline_item:before,
+#bt_bb_dialog .bt_bb_dialog_content .bold_timeline_item_posts_icon:before {
+	display: block;
+	position: absolute;
+	left: 1em;
+	top: auto;
+	bottom: auto;
+	width: 2.3em;
+	height: 2.3em;
+	border-radius: 50%;
+	background-color: red;
+	color: #fff;
+	vertical-align: middle;
+	margin: 0.2em 0 0;
+	text-align: center;
+	content: ""
+}
+
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bold_timeline_container:before {
+    font-family: 'MaterialIcons' !important;
+	background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIyNHB4IiBoZWlnaHQ9IjI0cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjQgMjQiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxnPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yMyw4YzAsMS4xLTAuOSwyLTIsMmMtMC4xOCwwLTAuMzUtMC4wMi0wLjUxLTAuMDdsLTMuNTYxLDMuNTVDMTYuOTgsMTMuNjQxLDE3LDEzLjgyLDE3LDE0YzAsMS4xLTAuOSwyLTIsMnMtMi0wLjktMi0yYzAtMC4xOCwwLjAyLTAuMzU5LDAuMDctMC41MmwtMi41NS0yLjU1QzEwLjM2LDEwLjk4LDEwLjE4LDExLDEwLDExcy0wLjM2LTAuMDItMC41Mi0wLjA3bC00LjU1LDQuNTZDNC45OCwxNS42NSw1LDE1LjgyLDUsMTZjMCwxLjEtMC45LDItMiwycy0yLTAuOS0yLTJzMC45LTIsMi0yYzAuMTgsMCwwLjM1LDAuMDIsMC41MSwwLjA3bDQuNTYtNC41NUM4LjAyLDkuMzYsOCw5LjE4LDgsOWMwLTEuMSwwLjktMiwyLTJzMiwwLjksMiwyYzAsMC4xOC0wLjAyLDAuMzYtMC4wNywwLjUybDIuNTUsMi41NUMxNC42NDEsMTIuMDIsMTQuODIsMTIsMTUsMTJzMC4zNTksMC4wMiwwLjUyLDAuMDdsMy41NTEtMy41NkMxOS4wMiw4LjM1LDE5LDguMTgsMTksOGMwLTEuMSwwLjktMiwyLTJTMjMsNi45LDIzLDh6Ii8+PC9nPjwvc3ZnPg==);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 60%;
+	background-color: #2196f3;
+}
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bold_timeline_group:before {
+    font-family: 'MaterialIcons' !important;
+	background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIyNHB4IiBoZWlnaHQ9IjI0cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjQgMjQiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxnPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xOS41LDkuNWMtMS4wMywwLTEuOSwwLjYyLTIuMjksMS41aC0yLjkyQzEzLjksMTAuMTIsMTMuMDMsOS41LDEyLDkuNXMtMS45LDAuNjItMi4yOSwxLjVINi43OUM2LjQsMTAuMTIsNS41Myw5LjUsNC41LDkuNUMzLjEyLDkuNSwyLDEwLjYyLDIsMTJzMS4xMiwyLjUsMi41LDIuNWMxLjAzLDAsMS45LTAuNjIsMi4yOS0xLjVoMi45MmMwLjM5LDAuODgsMS4yNiwxLjUsMi4yOSwxLjVzMS45LTAuNjIsMi4yOS0xLjVoMi45MmMwLjM5LDAuODgsMS4yNiwxLjUsMi4yOSwxLjVjMS4zOCwwLDIuNS0xLjEyLDIuNS0yLjVTMjAuODgsOS41LDE5LjUsOS41eiIvPjwvZz48L3N2Zz4=);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 60%;
+}
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bt_bb_icon_bold_timeline_item:before,
+#bt_bb_dialog .bt_bb_dialog_content .bt_bb_icon_bold_timeline_item:before {
+    font-family: 'MaterialIcons' !important;
+	background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIyNHB4IiBoZWlnaHQ9IjI0cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjQgMjQiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxnIGlkPSJGbGF0Ij48ZyBpZD0idWlfeDVGX3NwZWNfeDVGX2hlYWRlcl9jb3B5XzIiPjwvZz48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMTQsOWwtMS0ySDdWNS43MkM3LjYsNS4zOCw4LDQuNzQsOCw0YzAtMS4xLTAuOS0yLTItMlM0LDIuOSw0LDRjMCwwLjc0LDAuNCwxLjM4LDEsMS43MlYyMWgydi00aDVsMSwyaDdWOUgxNHogTTE4LDE3aC00bC0xLTJIN1Y5aDVsMSwyaDVWMTd6Ii8+PC9nPjwvc3ZnPg==);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 60%;
+}
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_posts_icon:before,
+#bt_bb_dialog .bt_bb_dialog_content .bold_timeline_item_posts_icon:before {
+    font-family: 'MaterialIcons' !important;
+	background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIyNHB4IiBoZWlnaHQ9IjI0cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjQgMjQiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik00LDZIMnYxNGMwLDEuMSwwLjksMiwyLDJoMTR2LTJINFY2eiBNMjAsMkg4QzYuOSwyLDYsMi45LDYsNHYxMmMwLDEuMSwwLjksMiwyLDJoMTJjMS4xLDAsMi0wLjksMi0yVjRDMjIsMi45LDIxLjEsMiwyMCwyeiBNMTksMTFIOVY5aDEwVjExeiBNMTUsMTVIOXYtMmg2VjE1eiBNMTksN0g5VjVoMTBWN3oiLz48L3N2Zz4=);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 60%;
+}
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_text_icon:before,
+#bt_bb_dialog .bt_bb_dialog_content .bold_timeline_item_text_icon:before {
+    font-family: 'MaterialIcons' !important;
+	background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIyNHB4IiBoZWlnaHQ9IjI0cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjQgMjQiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xNSwxN0gzdjJoMTJWMTd6IE0zLDE1aDE4di0ySDNWMTV6IE0zLDV2MmgxOFY1SDN6IE0zLjAyOSwxMS4wMTZoMTh2LTJoLTE4VjExLjAxNnoiLz48L3N2Zz4=);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 60%;
+}
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_separator_icon:before,
+#bt_bb_dialog .bt_bb_dialog_content .bold_timeline_item_separator_icon:before {
+    font-family: 'MaterialIcons' !important;
+	background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIyNHB4IiBoZWlnaHQ9IjI0cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjQgMjQiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik04LDE5aDN2NGgydi00aDNsLTQtNEw4LDE5eiBNMTYsNWgtM1YxaC0ydjRIOGw0LDRMMTYsNXogTTQsMTF2MmgxNnYtMkg0eiIvPjwvc3ZnPg==);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 60%;
+}
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_button_icon:before,
+#bt_bb_dialog .bt_bb_dialog_content .bt_bb_dialog_item.bold_timeline_item_button_icon:before {
+    font-family: 'MaterialIcons' !important;
+	background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIyNHB4IiBoZWlnaHQ9IjI0cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjQgMjQiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xOSw3SDVDMy45LDcsMyw3LjksMyw5djZjMCwxLjEsMC45LDIsMiwyaDE0YzEuMSwwLDItMC45LDItMlY5QzIxLDcuOSwyMC4xLDcsMTksN3ogTTE5LDE1SDVWOWgxNFYxNXoiLz48cmVjdCB4PSI3LjE1OSIgeT0iMTEiIGZpbGw9IiNGRkZGRkYiIHdpZHRoPSI5LjY4MiIgaGVpZ2h0PSIyIi8+PC9zdmc+);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 70%;
+}
+
+/*************************************************************************************************/
+
+
+.bold-timeline-lite-feedback-notice-wrapper .bold_timeline_lite_admin_notice_image_container {
+	width: 100px;
+    display: inline-block;
+	margin: 5px;
+	padding: 1px;
+    vertical-align: top;
+}
+.bold-timeline-lite-feedback-notice-wrapper .bold_timeline_lite_admin_notice_image_container img {
+    height: auto;
+}
+
+.bold-timeline-lite-feedback-notice-wrapper .bold_timeline_lite_admin_notice_message_container {
+	width: calc(100% - 140px);
+    display: inline-block;
+    margin-top: 5px;
+	 margin-bottom: 5px;
+    vertical-align: top;
+}
+
+.bold-timeline-lite-feedback-notice-wrapper .bold_timeline_lite_admin_notice_message_container p {
+	font-size: 14px;
+}
+
+.bold-timeline-lite-feedback-notice-wrapper .bold_timeline_lite_admin_notice_message_container .bold_timeline_lite_dismiss_notice_callto_action ul li {
+    float: left;
+    margin: 0px 5px;
+}
+
+
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_button_icon:before,
+#bt_bb_dialog .bt_bb_dialog_content .bt_bb_dialog_item.bold_timeline_item_button_icon:before {
+	background-color: red;
+}
+
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_separator_icon:before, 
+#bt_bb_dialog .bt_bb_dialog_content .bt_bb_dialog_item.bold_timeline_item_separator_icon:before {
+	background-color: red;
+}
+
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_posts_icon:before,
+#bt_bb_dialog .bt_bb_dialog_content .bold_timeline_item_posts_icon:before {
+	background-color: red;
+}
+
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_button_icon .bt_bb_toolbar .bt_bb_toolbar_tools i.bt_bb_clone,
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_separator_icon .bt_bb_toolbar .bt_bb_toolbar_tools i.bt_bb_clone,
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_posts_icon .bt_bb_toolbar .bt_bb_toolbar_tools i.bt_bb_clone {
+	display: none;
+}
+
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_button_icon .bt_bb_toolbar .bt_bb_toolbar_tools i.bt_bb_copy,
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_separator_icon .bt_bb_toolbar .bt_bb_toolbar_tools i.bt_bb_copy,
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_posts_icon .bt_bb_toolbar .bt_bb_toolbar_tools i.bt_bb_copy {
+	display: none;
+}
+
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_button_icon .bt_bb_toolbar .bt_bb_toolbar_tools i.bt_bb_copy_plus,
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_separator_icon .bt_bb_toolbar .bt_bb_toolbar_tools i.bt_bb_copy_plus,
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_posts_icon .bt_bb_toolbar .bt_bb_toolbar_tools i.bt_bb_copy_plus {
+	display: none;
+}
+
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_button_icon .bt_bb_toolbar .bt_bb_toolbar_tools i.bt_bb_paste,
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_separator_icon .bt_bb_toolbar .bt_bb_toolbar_tools i.bt_bb_paste,
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_posts_icon .bt_bb_toolbar .bt_bb_toolbar_tools i.bt_bb_paste {
+	display: none;
+}
+
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_button_icon .bt_bb_toolbar .bt_bb_toolbar_tools i.bt_bb_delete:before,
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_separator_icon .bt_bb_toolbar .bt_bb_toolbar_tools i.bt_bb_delete:before,
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item.bt_bb_icon.bold_timeline_item_posts_icon .bt_bb_toolbar .bt_bb_toolbar_tools i.bt_bb_delete:before {
+	display: none;
+}

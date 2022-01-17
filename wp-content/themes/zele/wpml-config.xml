@@ -1,0 +1,6 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="0">wpcf7_contact_form</custom-type>
+    <custom-type translate="0">sidebar</custom-type>
+  </custom-types>
+</wpml-config>

@@ -1,0 +1,95 @@
+
+/* Button */
+
+.bold_timeline_item_button {
+	.bold_timeline_item_button_inner { 
+		.bold_timeline_item_button_innet_text {
+			padding: 0.5em 1em;
+			display: block;
+			color: inherit;
+			text-align: center;
+			text-decoration: none;
+		}		
+	}
+	
+	.bold_timeline_container.bold_timeline_container_button_shape_soft_rounded .bold_timeline_item_button_shape_inherit&,
+	.bold_timeline_container .bold_timeline_item_button_shape_soft_rounded& {
+		.bold_timeline_item_button_inner {
+			border-radius: $(defaultSoftRoundedRadius)px;
+		}
+	}
+	.bold_timeline_container.bold_timeline_container_button_shape_hard_rounded .bold_timeline_item_button_shape_inherit&,
+	.bold_timeline_container .bold_timeline_item_button_shape_hard_rounded& {
+		.bold_timeline_item_button_inner {
+			/* border-radius: $(defaultHardRoundedRadius)px; */
+			border-radius: 100px;
+		}
+	}
+	.bold_timeline_container.bold_timeline_container_button_shape_square .bold_timeline_item_button_shape_inherit&,
+	.bold_timeline_container .bold_timeline_item_button_shape_square& {
+		.bold_timeline_item_button_inner {
+			border-radius: 0;			
+		}
+	}
+	
+	.bold_timeline_container.bold_timeline_container_button_style_filled .bold_timeline_item_button_style_inherit&,
+	.bold_timeline_container .bold_timeline_item_button_style_filled& {
+		.bold_timeline_item_button_inner {
+			background: $(defaultButtonColor); 
+			color: white; 
+			border: none;
+			box-shadow: none;
+		}
+	}
+	.bold_timeline_container.bold_timeline_container_button_style_outline .bold_timeline_item_button_style_inherit& ,
+	.bold_timeline_container .bold_timeline_item_button_style_outline& {
+		.bold_timeline_item_button_inner {
+			border-width: 2px; 
+			border-style: solid; 
+			border-color: $(defaultButtonColor); 
+			color: $(defaultButtonColor); 
+			background: transparent;
+			box-shadow: none;
+		}
+		&.bold_timeline_group_button { 
+			background: white;
+		}
+	}
+	.bold_timeline_container.bold_timeline_container_button_style_clear .bold_timeline_item_button_style_inherit&,
+	.bold_timeline_container .bold_timeline_item_button_style_clear& {
+		.bold_timeline_item_button_inner {
+			border: none; 
+			color: inherit; 
+			background: transparent;
+			box-shadow: none;
+		}
+	}
+	.bold_timeline_container.bold_timeline_container_button_style_shadow .bold_timeline_item_button_style_inherit&,
+	.bold_timeline_container .bold_timeline_item_button_style_shadow& {
+		.bold_timeline_item_button_inner {
+			border: none;  
+			color: $(defaultButtonColor); 
+			background: transparent;
+			box-shadow: none;
+			box-shadow: 1px 1px 4px 0 rgba(0,0,0,.2);
+		}
+	}
+	
+	.bold_timeline_container.bold_timeline_container_button_size_small .bold_timeline_item_button_size_inherit&,
+	.bold_timeline_container .bold_timeline_item_button_size_small& {
+		font-size: 0.85em;
+	}
+	.bold_timeline_container.bold_timeline_container_button_size_normal .bold_timeline_item_button_size_inherit&,
+	.bold_timeline_container .bold_timeline_item_button_size_normal& {
+		font-size: 1em;
+	}
+	.bold_timeline_container.bold_timeline_container_button_size_large .bold_timeline_item_button_size_inherit&,
+	.bold_timeline_container .bold_timeline_item_button_size_large& {
+		font-size: 1.15em;
+	}
+	
+	.bold_timeline_container &.bold_timeline_item_button_width_{
+		&block { display: block; }	
+		&inline { display: inline-block; }
+	}
+}
